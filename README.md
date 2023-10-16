@@ -1,2 +1,2 @@
 # Machine-learning
-Machine learning is  branch of computer science in which  machines  learn and make predictions without explicitly being programmmed
+Machine learning is a branch of computer science in which machines learn and make predictions without explicit programming. It is divided into three categories: supervised, unsupervised, and reinforcement learning. In this project, we will engage in hands-on projects that encompass all three of these categories.
