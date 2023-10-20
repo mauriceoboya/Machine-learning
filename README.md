@@ -66,6 +66,19 @@ We applied two classification models for credit card approval prediction:
    - Trained a Logistic Regression model to predict approval status.
    - Evaluated the model's performance using classification reports.
 
+3. ** Naive-Bayes Classifier:**
+   -Bayes' theorem is a fundamental concept in probability theory, often used in various fields, including machine learning and statistics. It describes how to    update the probability for a hypothesis based on new evidence. The formula for Bayes' theorem is as follows:
+   
+  $P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$
+Where:
+- \(P(A|B)\) is the probability of event A occurring given that event B has occurred.
+- \(P(B|A)\) is the probability of event B occurring given that event A has occurred.
+- \(P(A)\) is the prior probability of event A.
+- \(P(B)\) is the prior probability of event B.
+
+   - Trained a navie bayes model to predict approval status.
+   - Evaluated the model's performance using classification reports.
+
 ## Results
 
 The project provides insights into credit card approval prediction using machine learning techniques. It demonstrates the importance of data preprocessing and imputation of missing values for accurate predictions.
