@@ -101,4 +101,3 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 This project is licensed under the [MIT License](LICENSE).
 
-Feel free to modify the README according to your project's specific needs. Add sections, explanations, or any other information that you think would be helpful for users and contributors.
