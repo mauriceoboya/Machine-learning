@@ -78,6 +78,8 @@ Where:
 
    - Trained a navie bayes model to predict approval status.
    - Evaluated the model's performance using classification reports.
+ 
+## Unsupervised Models
 
 ## Results
 
