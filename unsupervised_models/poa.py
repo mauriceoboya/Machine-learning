@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 
-data = pd.read_csv('../Analytics_data.csv')
+data = pd.read_csv('Analytics_data.csv')
 
 columns = ["Date", "Agent name", "Response", "uid", "Converted?", 
            "average payment delay before weekly", "revenue per day before weekly", "revenue per day after weekly"]
