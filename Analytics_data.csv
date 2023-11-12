@@ -1,0 +1,1962 @@
+Date,Agent name,Response,uid,Converted?,average payment delay before weekly (days),revenue per day before weekly,revenue per day after weekly
+8/6/2023,Rose Kanyiri,No-financial constraints,126022,No,2,43.00,43.00
+7/6/2023,Allan Mutuota,No- low priority,101372,No,1,33.00,33.00
+7/5/2023,Greyson Ochanda,No- low priority,104620,No,5,28.00,28.00
+8/31/2023,Allan Mutuota,No- service dissatisfaction,28997,No,3,41.00,41.00
+9/13/2023,Rose Kanyiri,No- low priority,76405,No,4,29.00,29.00
+9/15/2023,Lutta Mboya,Yes- affordable,133146,No,6,29.00,29.00
+7/13/2023,Allan Mutuota,No- low priority,113507,No,2,29.00,29.00
+9/22/2023,Lutta Mboya,Yes- affordable,73528,No,6,24.00,24.00
+6/14/2023,Allan Mutuota,Yes- affordable,75402,No,6,35.00,35.00
+8/2/2023,Allan Mutuota,Not reachable,93169,No,6,26.00,26.00
+8/20/2023,Greyson Ochanda,No- low priority,127597,No,1,47.00,47.00
+7/24/2023,Greyson Ochanda,Yes- affordable,75872,No,2,33.00,33.00
+8/24/2023,Rose Kanyiri,No- low priority,65697,No,7,24.00,24.00
+8/28/2023,Allan Mutuota,No-financial constraints,61670,No,6,47.00,47.00
+9/6/2023,Lutta Mboya,No-financial constraints,37851,No,3,24.00,24.00
+9/28/2023,Lutta Mboya,Yes- affordable,40690,Yes,4,25.00,50.00
+7/15/2023,Rose Kanyiri,No-financial constraints,30863,No,5,45.00,45.00
+9/13/2023,Allan Mutuota,No-financial constraints,110000,No,1,46.00,46.00
+7/13/2023,Allan Mutuota,No- low priority,28145,No,4,24.00,24.00
+6/18/2023,Rose Kanyiri,Yes- affordable,83395,No,3,43.00,43.00
+6/24/2023,Allan Mutuota,No- low priority,60529,No,6,30.00,30.00
+8/28/2023,Allan Mutuota,No-financial constraints,116292,No,2,36.00,36.00
+9/1/2023,Allan Mutuota,No- low priority,42973,No,4,28.00,28.00
+6/5/2023,Greyson Ochanda,No- low priority,92423,No,6,39.00,39.00
+9/5/2023,Rose Kanyiri,Yes- affordable,57456,No,4,32.00,32.00
+6/20/2023,Rose Kanyiri,No-financial constraints,93207,No,2,50.00,50.00
+9/25/2023,Rose Kanyiri,No- low priority,124551,No,3,44.00,44.00
+8/1/2023,Rose Kanyiri,No-financial constraints,57503,No,5,30.00,30.00
+6/30/2023,Rose Kanyiri,Not reachable,114423,No,7,27.00,27.00
+6/8/2023,Greyson Ochanda,No-financial constraints,43140,No,4,45.00,45.00
+8/9/2023,Greyson Ochanda,No- low priority,90399,No,1,48.00,48.00
+9/30/2023,Allan Mutuota,Yes- affordable,110961,No,2,48.00,48.00
+7/26/2023,Greyson Ochanda,No- low priority,81212,No,2,33.00,33.00
+8/31/2023,Allan Mutuota,Yes- affordable,44424,No,7,34.00,34.00
+7/12/2023,Allan Mutuota,No- low priority,62709,No,6,43.00,43.00
+9/1/2023,Allan Mutuota,No- low priority,70597,No,1,40.00,40.00
+8/18/2023,Greyson Ochanda,Yes- affordable,74940,No,6,47.00,47.00
+9/14/2023,Allan Mutuota,No-financial constraints,100884,No,5,39.00,39.00
+7/7/2023,Allan Mutuota,No- low priority,57342,No,7,29.00,29.00
+9/13/2023,Lutta Mboya,Yes- affordable,118222,No,4,31.00,31.00
+9/12/2023,Rose Kanyiri,Yes- affordable,95946,No,4,25.00,25.00
+8/11/2023,Allan Mutuota,Yes- affordable,75227,No,6,34.00,34.00
+9/6/2023,Rose Kanyiri,No- low priority,112448,No,3,28.00,28.00
+8/15/2023,Greyson Ochanda,No- low priority,76478,No,3,50.00,50.00
+9/11/2023,Lutta Mboya,Yes- affordable,114340,No,6,46.00,46.00
+8/6/2023,Greyson Ochanda,No-financial constraints,93200,No,7,24.00,24.00
+9/14/2023,Allan Mutuota,Yes- affordable,127185,No,2,29.00,29.00
+9/12/2023,Rose Kanyiri,No- low priority,94641,No,4,39.00,39.00
+8/1/2023,Greyson Ochanda,No- low priority,38007,No,4,23.00,23.00
+9/24/2023,Allan Mutuota,No- low priority,91862,No,4,46.00,46.00
+9/5/2023,Lutta Mboya,Yes- affordable,96334,No,4,46.00,46.00
+8/9/2023,Rose Kanyiri,No- low priority,75381,No,2,47.00,47.00
+9/24/2023,Rose Kanyiri,No- service dissatisfaction,130321,No,5,32.00,32.00
+8/9/2023,Allan Mutuota,No- low priority,115863,No,6,41.00,41.00
+9/24/2023,Allan Mutuota,Not reachable,33951,No,7,41.00,41.00
+8/26/2023,Lutta Mboya,Yes- affordable,22444,No,3,49.00,49.00
+9/27/2023,Lutta Mboya,Yes- affordable,96726,No,7,42.00,42.00
+6/15/2023,Allan Mutuota,Yes- affordable,80285,Yes,1,33.00,43.00
+6/21/2023,Rose Kanyiri,No- low priority,134699,No,6,30.00,30.00
+9/3/2023,Lutta Mboya,Yes- affordable,85150,No,2,30.00,30.00
+9/5/2023,Greyson Ochanda,No-financial constraints,58571,No,1,40.00,40.00
+8/26/2023,Lutta Mboya,Yes- affordable,117948,No,5,41.00,41.00
+6/25/2023,Greyson Ochanda,No- low priority,125510,No,5,40.00,40.00
+9/14/2023,Allan Mutuota,No-financial constraints,95971,No,1,36.00,36.00
+7/6/2023,Rose Kanyiri,No- low priority,77481,No,3,26.00,26.00
+8/28/2023,Allan Mutuota,No- low priority,120294,No,2,44.00,44.00
+9/27/2023,Allan Mutuota,No-financial constraints,91329,No,3,27.00,27.00
+9/3/2023,Greyson Ochanda,No-financial constraints,120600,No,6,46.00,46.00
+9/25/2023,Lutta Mboya,No- service dissatisfaction,43149,No,3,33.00,33.00
+8/14/2023,Rose Kanyiri,No- low priority,78816,No,3,44.00,44.00
+9/5/2023,Lutta Mboya,Yes- affordable,104967,No,6,39.00,39.00
+9/12/2023,Rose Kanyiri,Yes- affordable,95946,Yes,4,41.00,41.00
+9/17/2023,Allan Mutuota,Yes- affordable,67921,Yes,6,26.00,45.00
+9/25/2023,Allan Mutuota,Yes- affordable,125623,No,1,25.00,25.00
+9/14/2023,Lutta Mboya,Yes- affordable,27625,No,6,23.00,23.00
+9/15/2023,Allan Mutuota,No- low priority,120386,No,3,38.00,38.00
+7/13/2023,Allan Mutuota,Yes- affordable,89272,No,1,35.00,35.00
+7/21/2023,Greyson Ochanda,No-financial constraints,120449,No,7,30.00,30.00
+7/14/2023,Allan Mutuota,No- low priority,103808,No,6,36.00,36.00
+6/10/2023,Allan Mutuota,No-financial constraints,62280,No,6,43.00,43.00
+9/11/2023,Lutta Mboya,Yes- affordable,64750,No,5,46.00,46.00
+9/6/2023,Lutta Mboya,Yes- affordable,21262,No,1,37.00,37.00
+7/25/2023,Allan Mutuota,No-financial constraints,22438,No,5,47.00,47.00
+8/16/2023,Greyson Ochanda,No- low priority,46939,No,1,23.00,23.00
+6/7/2023,Rose Kanyiri,No- low priority,28699,No,1,30.00,30.00
+9/28/2023,Rose Kanyiri,No-financial constraints,105350,No,4,35.00,35.00
+8/7/2023,Allan Mutuota,No-financial constraints,101730,No,2,45.00,45.00
+9/6/2023,Greyson Ochanda,Yes- affordable,95819,No,2,34.00,34.00
+9/3/2023,Rose Kanyiri,No- service dissatisfaction,118640,No,5,26.00,26.00
+9/21/2023,Lutta Mboya,Yes- affordable,109505,No,4,46.00,46.00
+9/4/2023,Rose Kanyiri,No-financial constraints,96494,No,4,41.00,41.00
+8/24/2023,Lutta Mboya,Yes- affordable,70877,No,1,23.00,23.00
+8/31/2023,Rose Kanyiri,Yes- affordable,17181,No,1,37.00,37.00
+8/31/2023,Rose Kanyiri,No- low priority,120947,No,1,42.00,42.00
+8/5/2023,Allan Mutuota,Yes- affordable,79221,No,4,23.00,23.00
+6/7/2023,Allan Mutuota,No- low priority,81107,No,2,44.00,44.00
+6/6/2023,Greyson Ochanda,No- low priority,42901,No,5,25.00,25.00
+8/24/2023,Allan Mutuota,No-financial constraints,36486,No,3,47.00,47.00
+9/30/2023,Lutta Mboya,Yes- affordable,97306,No,1,25.00,25.00
+7/22/2023,Rose Kanyiri,Yes- affordable,47613,No,2,44.00,44.00
+6/27/2023,Allan Mutuota,Not reachable,120980,No,7,43.00,43.00
+9/4/2023,Allan Mutuota,Yes- affordable,124345,No,1,45.00,45.00
+6/27/2023,Greyson Ochanda,No- low priority,76215,No,5,34.00,34.00
+7/2/2023,Greyson Ochanda,No- low priority,132931,No,3,41.00,41.00
+7/25/2023,Greyson Ochanda,No- low priority,50493,No,5,48.00,48.00
+8/16/2023,Greyson Ochanda,No- low priority,100406,No,2,27.00,27.00
+7/7/2023,Greyson Ochanda,No- low priority,27601,No,6,24.00,24.00
+8/29/2023,Lutta Mboya,No- low priority,119697,No,2,27.00,27.00
+9/20/2023,Lutta Mboya,Yes- affordable,59255,No,4,47.00,47.00
+6/18/2023,Allan Mutuota,Yes- affordable,90626,No,7,40.00,40.00
+6/16/2023,Greyson Ochanda,No-financial constraints,114321,No,6,49.00,49.00
+9/8/2023,Lutta Mboya,Yes- affordable,10391,No,7,33.00,33.00
+8/18/2023,Allan Mutuota,No-financial constraints,92289,No,3,37.00,37.00
+9/26/2023,Lutta Mboya,Yes- affordable,127999,No,2,31.00,31.00
+6/19/2023,Greyson Ochanda,No- low priority,104447,No,6,48.00,48.00
+9/5/2023,Greyson Ochanda,Yes- affordable,104626,No,3,35.00,35.00
+7/24/2023,Greyson Ochanda,Yes- affordable,75872,Yes,3,23.00,48.00
+9/21/2023,Greyson Ochanda,No-financial constraints,87106,No,4,50.00,50.00
+9/19/2023,Greyson Ochanda,Yes- affordable,133150,No,5,38.00,38.00
+8/2/2023,Greyson Ochanda,Yes- affordable,74469,No,4,48.00,48.00
+9/9/2023,Allan Mutuota,No- low priority,133249,No,4,24.00,24.00
+7/19/2023,Greyson Ochanda,No- low priority,108522,No,3,24.00,24.00
+7/24/2023,Allan Mutuota,Yes- affordable,82747,No,2,31.00,31.00
+9/15/2023,Rose Kanyiri,No-financial constraints,100330,No,1,23.00,23.00
+9/5/2023,Rose Kanyiri,Yes- affordable,72496,No,5,47.00,47.00
+9/11/2023,Lutta Mboya,Yes- affordable,117674,No,1,27.00,27.00
+8/7/2023,Rose Kanyiri,No- low priority,114179,No,4,48.00,48.00
+9/6/2023,Allan Mutuota,Yes- affordable,21776,No,6,30.00,30.00
+9/20/2023,Greyson Ochanda,Yes- affordable,116517,No,1,23.00,23.00
+8/5/2023,Rose Kanyiri,Yes- affordable,74464,No,4,49.00,49.00
+7/15/2023,Greyson Ochanda,No- low priority,91345,No,3,47.00,47.00
+9/4/2023,Allan Mutuota,Yes- affordable,99843,No,3,42.00,42.00
+9/5/2023,Lutta Mboya,No-financial constraints,115497,No,5,46.00,46.00
+9/30/2023,Lutta Mboya,Yes- affordable,107157,No,7,33.00,33.00
+9/8/2023,Lutta Mboya,Yes- affordable,109070,No,4,36.00,36.00
+8/18/2023,Rose Kanyiri,No-financial constraints,127898,No,1,26.00,26.00
+9/16/2023,Lutta Mboya,Yes- affordable,103611,No,1,45.00,45.00
+7/11/2023,Rose Kanyiri,No- low priority,17655,No,3,31.00,31.00
+9/16/2023,Lutta Mboya,Yes- affordable,115355,No,6,43.00,43.00
+8/29/2023,Allan Mutuota,Yes- affordable,116486,No,7,44.00,44.00
+9/18/2023,Lutta Mboya,Yes- affordable,94599,No,4,50.00,50.00
+9/3/2023,Lutta Mboya,Yes- affordable,64482,No,4,36.00,36.00
+9/20/2023,Rose Kanyiri,No- service dissatisfaction,54330,No,5,40.00,40.00
+8/10/2023,Greyson Ochanda,Yes- affordable,76617,No,3,32.00,32.00
+8/18/2023,Allan Mutuota,No- low priority,83219,No,1,32.00,32.00
+9/12/2023,Lutta Mboya,Yes- affordable,28661,No,3,24.00,24.00
+7/29/2023,Greyson Ochanda,No- low priority,106483,No,7,36.00,36.00
+9/16/2023,Greyson Ochanda,Yes- affordable,103234,No,4,25.00,25.00
+9/16/2023,Lutta Mboya,Yes- affordable,83566,No,6,32.00,32.00
+9/24/2023,Lutta Mboya,Yes- affordable,64990,No,6,50.00,50.00
+8/30/2023,Lutta Mboya,Yes- affordable,106280,No,7,28.00,28.00
+7/7/2023,Allan Mutuota,No- low priority,44213,No,7,41.00,41.00
+9/22/2023,Rose Kanyiri,No- low priority,74966,No,6,22.00,22.00
+8/28/2023,Greyson Ochanda,No-financial constraints,41317,No,5,26.00,26.00
+9/20/2023,Allan Mutuota,Yes- affordable,50940,No,6,32.00,32.00
+6/1/2023,Greyson Ochanda,No- low priority,112340,No,4,38.00,38.00
+9/23/2023,Rose Kanyiri,No- low priority,42252,No,1,48.00,48.00
+6/4/2023,Rose Kanyiri,No- low priority,113122,No,3,46.00,46.00
+7/3/2023,Allan Mutuota,No- low priority,84240,No,6,35.00,35.00
+9/21/2023,Greyson Ochanda,No- low priority,56360,No,5,26.00,26.00
+9/16/2023,Allan Mutuota,Yes- affordable,94055,No,1,23.00,23.00
+8/21/2023,Allan Mutuota,No- low priority,115231,No,1,31.00,31.00
+7/7/2023,Greyson Ochanda,No- low priority,89232,No,1,30.00,30.00
+9/25/2023,Lutta Mboya,No- low priority,64060,No,4,30.00,30.00
+9/12/2023,Lutta Mboya,Yes- affordable,117599,No,1,36.00,36.00
+8/27/2023,Rose Kanyiri,Yes- affordable,37225,No,5,38.00,38.00
+7/20/2023,Allan Mutuota,No- low priority,118353,No,2,38.00,38.00
+7/19/2023,Greyson Ochanda,No- low priority,52812,No,1,30.00,30.00
+7/16/2023,Allan Mutuota,No- low priority,102251,No,2,31.00,31.00
+9/4/2023,Allan Mutuota,Yes- affordable,100852,Yes,4,29.00,47.00
+9/18/2023,Lutta Mboya,No- service dissatisfaction,44883,No,4,38.00,38.00
+9/30/2023,Lutta Mboya,Yes- affordable,113312,No,7,37.00,37.00
+6/19/2023,Allan Mutuota,No- low priority,85272,No,6,34.00,34.00
+6/25/2023,Greyson Ochanda,Yes- affordable,86676,No,4,38.00,38.00
+9/16/2023,Lutta Mboya,Yes- affordable,103611,Yes,6,38.00,45.00
+7/19/2023,Allan Mutuota,No- low priority,90208,No,6,29.00,29.00
+8/26/2023,Lutta Mboya,Yes- affordable,105311,No,6,46.00,46.00
+9/28/2023,Lutta Mboya,Yes- affordable,62819,No,5,28.00,28.00
+9/21/2023,Allan Mutuota,No- low priority,59665,No,2,50.00,50.00
+9/13/2023,Rose Kanyiri,Yes- affordable,27310,No,3,40.00,40.00
+9/5/2023,Lutta Mboya,Yes- affordable,92609,No,2,22.00,22.00
+8/19/2023,Rose Kanyiri,No- low priority,117688,No,7,35.00,35.00
+7/4/2023,Rose Kanyiri,No- low priority,85000,No,1,40.00,40.00
+6/10/2023,Rose Kanyiri,No- low priority,116009,No,3,33.00,33.00
+6/22/2023,Greyson Ochanda,No- low priority,79569,No,7,34.00,34.00
+9/2/2023,Allan Mutuota,No-financial constraints,115516,No,6,41.00,41.00
+9/17/2023,Allan Mutuota,Yes- affordable,125063,No,3,37.00,37.00
+9/3/2023,Greyson Ochanda,No- low priority,92602,No,6,45.00,45.00
+6/14/2023,Greyson Ochanda,Not reachable,30320,No,7,48.00,48.00
+9/8/2023,Allan Mutuota,No-financial constraints,53511,No,7,34.00,34.00
+8/8/2023,Greyson Ochanda,No- low priority,92717,No,7,35.00,35.00
+9/5/2023,Allan Mutuota,No- service dissatisfaction,62505,No,1,30.00,30.00
+9/24/2023,Rose Kanyiri,Yes- affordable,131975,No,5,37.00,37.00
+9/23/2023,Lutta Mboya,Yes- affordable,107883,Yes,1,44.00,53.00
+9/18/2023,Greyson Ochanda,Yes- affordable,56373,No,6,38.00,38.00
+9/1/2023,Allan Mutuota,No- low priority,128288,No,3,29.00,29.00
+7/16/2023,Rose Kanyiri,No- low priority,86306,No,5,47.00,47.00
+9/5/2023,Greyson Ochanda,Yes- affordable,105746,No,7,50.00,50.00
+7/5/2023,Allan Mutuota,No-financial constraints,130162,No,1,49.00,49.00
+9/23/2023,Allan Mutuota,Yes- affordable,118911,No,5,32.00,32.00
+7/12/2023,Rose Kanyiri,Yes- affordable,86139,No,3,31.00,31.00
+8/12/2023,Rose Kanyiri,Yes- affordable,77594,Yes,3,25.00,46.00
+9/11/2023,Lutta Mboya,Yes- affordable,98839,No,2,40.00,40.00
+6/11/2023,Allan Mutuota,No-financial constraints,72285,No,2,36.00,36.00
+6/18/2023,Rose Kanyiri,Yes- affordable,82031,No,2,40.00,40.00
+7/20/2023,Rose Kanyiri,No- low priority,80128,No,3,49.00,49.00
+7/8/2023,Greyson Ochanda,Not reachable,118080,No,3,41.00,41.00
+9/21/2023,Allan Mutuota,Yes- affordable,7747,No,6,43.00,43.00
+9/17/2023,Rose Kanyiri,No- low priority,132803,No,6,31.00,31.00
+9/17/2023,Allan Mutuota,No- low priority,121344,No,4,42.00,42.00
+8/19/2023,Allan Mutuota,No-financial constraints,91614,No,7,26.00,26.00
+8/9/2023,Rose Kanyiri,No- low priority,100851,No,6,34.00,34.00
+8/18/2023,Allan Mutuota,No- low priority,86688,No,2,38.00,38.00
+9/27/2023,Rose Kanyiri,No-financial constraints,91589,No,4,45.00,45.00
+9/25/2023,Lutta Mboya,Yes- affordable,73216,No,4,33.00,33.00
+8/22/2023,Greyson Ochanda,No- low priority,89532,No,3,45.00,45.00
+6/13/2023,Allan Mutuota,No- low priority,76894,No,2,25.00,25.00
+8/30/2023,Allan Mutuota,No- low priority,117305,No,5,30.00,30.00
+6/4/2023,Allan Mutuota,No-financial constraints,68142,No,5,39.00,39.00
+9/19/2023,Allan Mutuota,No-financial constraints,106431,No,3,34.00,34.00
+7/28/2023,Greyson Ochanda,No- low priority,52846,No,4,46.00,46.00
+9/4/2023,Allan Mutuota,Yes- affordable,99352,No,3,37.00,37.00
+9/30/2023,Allan Mutuota,No-financial constraints,114318,No,4,36.00,36.00
+6/9/2023,Greyson Ochanda,No- low priority,106286,No,6,42.00,42.00
+6/18/2023,Allan Mutuota,Not reachable,56154,No,3,40.00,40.00
+8/3/2023,Greyson Ochanda,No- low priority,101637,No,5,32.00,32.00
+9/24/2023,Allan Mutuota,No- service dissatisfaction,107154,No,6,40.00,40.00
+9/16/2023,Rose Kanyiri,No-financial constraints,71789,No,1,38.00,38.00
+7/15/2023,Greyson Ochanda,Yes- affordable,89149,No,7,28.00,28.00
+9/2/2023,Allan Mutuota,Yes- affordable,126584,No,5,25.00,25.00
+6/24/2023,Allan Mutuota,No-financial constraints,3708,No,6,45.00,45.00
+8/23/2023,Allan Mutuota,Yes- affordable,88870,Yes,7,39.00,57.00
+9/7/2023,Rose Kanyiri,No- low priority,64732,No,4,47.00,47.00
+7/16/2023,Rose Kanyiri,No-financial constraints,99497,No,4,25.00,25.00
+6/12/2023,Allan Mutuota,No-financial constraints,58145,No,3,39.00,39.00
+8/23/2023,Allan Mutuota,No-financial constraints,45910,No,5,34.00,34.00
+9/2/2023,Lutta Mboya,No- service dissatisfaction,33783,No,3,26.00,26.00
+8/31/2023,Lutta Mboya,Yes- affordable,32920,No,1,41.00,41.00
+9/24/2023,Lutta Mboya,No- service dissatisfaction,98489,No,6,41.00,41.00
+9/4/2023,Allan Mutuota,No- service dissatisfaction,67039,No,1,30.00,30.00
+9/8/2023,Greyson Ochanda,No-financial constraints,8744,No,2,44.00,44.00
+8/1/2023,Greyson Ochanda,No-financial constraints,124960,No,7,37.00,37.00
+9/7/2023,Rose Kanyiri,Yes- affordable,28039,No,6,48.00,48.00
+9/17/2023,Lutta Mboya,Yes- affordable,93568,No,5,36.00,36.00
+8/6/2023,Rose Kanyiri,Not reachable,110842,No,7,50.00,50.00
+9/10/2023,Lutta Mboya,Yes- affordable,105294,No,6,42.00,42.00
+9/19/2023,Lutta Mboya,Yes- affordable,73288,No,1,31.00,31.00
+9/27/2023,Lutta Mboya,Yes- affordable,130206,No,6,37.00,37.00
+7/17/2023,Greyson Ochanda,No-financial constraints,37067,No,3,31.00,31.00
+7/10/2023,Greyson Ochanda,No- low priority,83426,No,4,23.00,23.00
+6/17/2023,Rose Kanyiri,No- low priority,132851,No,1,46.00,46.00
+9/9/2023,Allan Mutuota,No- low priority,115866,No,4,46.00,46.00
+9/1/2023,Lutta Mboya,No-financial constraints,79320,No,7,33.00,33.00
+9/13/2023,Allan Mutuota,No-financial constraints,99257,No,7,33.00,33.00
+6/25/2023,Allan Mutuota,No- low priority,74319,No,3,34.00,34.00
+9/25/2023,Allan Mutuota,No-financial constraints,30554,No,2,41.00,41.00
+9/9/2023,Lutta Mboya,Yes- affordable,16030,No,2,38.00,38.00
+7/6/2023,Rose Kanyiri,No- low priority,52197,No,5,48.00,48.00
+9/23/2023,Allan Mutuota,Yes- affordable,102440,No,4,35.00,35.00
+6/16/2023,Rose Kanyiri,No-financial constraints,130102,No,5,42.00,42.00
+6/22/2023,Rose Kanyiri,No- low priority,24021,No,1,31.00,31.00
+7/22/2023,Rose Kanyiri,Yes- affordable,74178,No,7,27.00,27.00
+8/3/2023,Rose Kanyiri,Yes- affordable,83284,No,5,23.00,23.00
+6/16/2023,Allan Mutuota,Yes- affordable,74144,No,3,26.00,26.00
+8/24/2023,Lutta Mboya,No- low priority,132359,No,3,32.00,32.00
+7/21/2023,Rose Kanyiri,No-financial constraints,13054,No,2,29.00,29.00
+7/10/2023,Rose Kanyiri,Not reachable,51211,No,3,45.00,45.00
+8/22/2023,Allan Mutuota,Not reachable,129265,No,2,36.00,36.00
+8/19/2023,Greyson Ochanda,Not reachable,130606,No,1,35.00,35.00
+9/1/2023,Greyson Ochanda,Yes- affordable,91594,No,6,27.00,27.00
+7/8/2023,Allan Mutuota,Yes- affordable,89580,No,3,25.00,25.00
+7/29/2023,Rose Kanyiri,No- low priority,96882,No,1,50.00,50.00
+8/10/2023,Rose Kanyiri,No- low priority,79970,No,1,30.00,30.00
+7/22/2023,Rose Kanyiri,No- low priority,84652,No,7,28.00,28.00
+9/20/2023,Lutta Mboya,Yes- affordable,76307,No,2,49.00,49.00
+8/16/2023,Rose Kanyiri,No- low priority,46741,No,2,27.00,27.00
+7/23/2023,Greyson Ochanda,Yes- affordable,73818,No,4,38.00,38.00
+8/9/2023,Rose Kanyiri,No- low priority,71112,No,3,45.00,45.00
+7/7/2023,Greyson Ochanda,Yes- affordable,89554,No,3,43.00,43.00
+9/4/2023,Allan Mutuota,Yes- affordable,100852,No,2,50.00,50.00
+6/27/2023,Greyson Ochanda,Not reachable,111834,No,2,29.00,29.00
+7/14/2023,Rose Kanyiri,No- low priority,73989,No,3,49.00,49.00
+6/17/2023,Allan Mutuota,No- low priority,88913,No,7,23.00,23.00
+9/6/2023,Allan Mutuota,No- service dissatisfaction,19219,No,2,48.00,48.00
+8/14/2023,Allan Mutuota,No- low priority,48317,No,4,36.00,36.00
+7/8/2023,Allan Mutuota,No- low priority,101536,No,4,48.00,48.00
+6/18/2023,Greyson Ochanda,No- low priority,123821,No,7,44.00,44.00
+7/5/2023,Rose Kanyiri,Not reachable,115690,No,5,48.00,48.00
+7/28/2023,Allan Mutuota,No- low priority,87844,No,4,39.00,39.00
+9/16/2023,Allan Mutuota,No- low priority,49447,No,7,35.00,35.00
+8/18/2023,Rose Kanyiri,No- low priority,90351,No,2,48.00,48.00
+8/12/2023,Allan Mutuota,No- low priority,120770,No,5,39.00,39.00
+8/10/2023,Greyson Ochanda,No- low priority,85090,No,4,27.00,27.00
+8/25/2023,Greyson Ochanda,Yes- affordable,107051,No,7,32.00,32.00
+7/23/2023,Allan Mutuota,No- low priority,95134,No,5,44.00,44.00
+7/19/2023,Greyson Ochanda,Not reachable,130866,No,4,38.00,38.00
+8/26/2023,Allan Mutuota,No- service dissatisfaction,133078,No,4,41.00,41.00
+9/25/2023,Lutta Mboya,Yes- affordable,5366,No,5,42.00,42.00
+6/24/2023,Greyson Ochanda,No- low priority,115457,No,2,22.00,22.00
+9/1/2023,Allan Mutuota,No-financial constraints,110537,No,4,37.00,37.00
+6/21/2023,Allan Mutuota,No- low priority,55172,No,1,22.00,22.00
+7/23/2023,Greyson Ochanda,No-financial constraints,54850,No,2,45.00,45.00
+8/18/2023,Greyson Ochanda,No- low priority,109171,No,2,50.00,50.00
+9/28/2023,Rose Kanyiri,No- service dissatisfaction,120341,No,6,44.00,44.00
+6/3/2023,Greyson Ochanda,Not reachable,122892,No,5,24.00,24.00
+8/10/2023,Greyson Ochanda,No- low priority,73491,No,2,29.00,29.00
+9/11/2023,Rose Kanyiri,No-financial constraints,68013,No,6,44.00,44.00
+8/26/2023,Greyson Ochanda,Yes- affordable,115643,No,2,42.00,42.00
+8/31/2023,Lutta Mboya,Yes- affordable,50358,No,4,47.00,47.00
+9/4/2023,Greyson Ochanda,Yes- affordable,101610,No,2,28.00,28.00
+8/3/2023,Rose Kanyiri,No- low priority,80139,No,1,32.00,32.00
+9/20/2023,Allan Mutuota,Yes- affordable,53536,No,4,27.00,27.00
+8/16/2023,Greyson Ochanda,No- low priority,24745,No,3,34.00,34.00
+9/9/2023,Rose Kanyiri,Yes- affordable,28051,No,2,29.00,29.00
+9/12/2023,Rose Kanyiri,Yes- affordable,23119,Yes,7,38.00,40.00
+6/13/2023,Greyson Ochanda,No-financial constraints,108580,No,4,41.00,41.00
+8/15/2023,Allan Mutuota,Not reachable,36127,No,4,42.00,42.00
+9/8/2023,Lutta Mboya,Yes- affordable,106369,Yes,7,41.00,47.00
+6/17/2023,Greyson Ochanda,No- low priority,24454,No,5,25.00,25.00
+9/19/2023,Allan Mutuota,No- low priority,119039,No,1,30.00,30.00
+7/16/2023,Greyson Ochanda,No- low priority,101904,No,3,28.00,28.00
+7/9/2023,Rose Kanyiri,No- low priority,74069,No,1,41.00,41.00
+7/10/2023,Greyson Ochanda,No- low priority,76452,No,7,29.00,29.00
+9/30/2023,Allan Mutuota,No- service dissatisfaction,119941,No,3,34.00,34.00
+6/24/2023,Greyson Ochanda,No- low priority,85120,No,6,43.00,43.00
+9/29/2023,Lutta Mboya,Yes- affordable,97601,No,1,35.00,35.00
+7/6/2023,Greyson Ochanda,No- low priority,99337,No,4,43.00,43.00
+7/23/2023,Greyson Ochanda,No- low priority,106402,No,2,34.00,34.00
+8/18/2023,Greyson Ochanda,No- low priority,89049,No,3,24.00,24.00
+9/22/2023,Allan Mutuota,Yes- affordable,58209,No,3,44.00,44.00
+6/12/2023,Greyson Ochanda,No-financial constraints,109604,No,6,30.00,30.00
+9/20/2023,Greyson Ochanda,Yes- affordable,93258,No,3,42.00,42.00
+9/10/2023,Lutta Mboya,No- service dissatisfaction,25016,No,1,31.00,31.00
+7/4/2023,Rose Kanyiri,No- low priority,96481,No,2,29.00,29.00
+6/30/2023,Greyson Ochanda,Yes- affordable,84222,No,4,35.00,35.00
+8/9/2023,Allan Mutuota,No- low priority,83752,No,1,25.00,25.00
+8/27/2023,Allan Mutuota,Yes- affordable,125773,No,4,23.00,23.00
+9/2/2023,Allan Mutuota,Not reachable,72369,No,6,39.00,39.00
+7/2/2023,Greyson Ochanda,No-financial constraints,65429,No,5,45.00,45.00
+6/18/2023,Rose Kanyiri,Yes- affordable,78401,No,1,41.00,41.00
+9/6/2023,Allan Mutuota,Yes- affordable,89796,No,5,42.00,42.00
+6/3/2023,Rose Kanyiri,No- low priority,957,No,1,28.00,28.00
+8/12/2023,Rose Kanyiri,Yes- affordable,90199,No,7,36.00,36.00
+8/16/2023,Greyson Ochanda,Yes- affordable,79753,No,5,41.00,41.00
+9/14/2023,Greyson Ochanda,No-financial constraints,127943,No,6,35.00,35.00
+8/23/2023,Allan Mutuota,Yes- affordable,88870,No,7,48.00,48.00
+6/10/2023,Greyson Ochanda,No-financial constraints,103409,No,2,22.00,22.00
+6/13/2023,Allan Mutuota,No-financial constraints,130921,No,4,31.00,31.00
+9/20/2023,Allan Mutuota,Not reachable,134298,No,3,50.00,50.00
+8/15/2023,Greyson Ochanda,No- low priority,130710,No,3,22.00,22.00
+7/29/2023,Allan Mutuota,No- low priority,86169,No,6,37.00,37.00
+8/3/2023,Greyson Ochanda,No- low priority,30177,No,6,40.00,40.00
+8/5/2023,Greyson Ochanda,Yes- affordable,85466,No,5,29.00,29.00
+9/11/2023,Lutta Mboya,No-financial constraints,107613,No,3,25.00,25.00
+7/28/2023,Greyson Ochanda,No-financial constraints,131315,No,7,36.00,36.00
+8/27/2023,Lutta Mboya,Yes- affordable,98094,No,7,23.00,23.00
+8/8/2023,Greyson Ochanda,No- low priority,111319,No,4,29.00,29.00
+9/21/2023,Lutta Mboya,Yes- affordable,94975,Yes,2,48.00,41.00
+9/13/2023,Greyson Ochanda,Yes- affordable,66454,No,3,45.00,45.00
+7/1/2023,Greyson Ochanda,Not reachable,63629,No,1,22.00,22.00
+8/8/2023,Greyson Ochanda,No-financial constraints,127219,No,3,48.00,48.00
+9/8/2023,Lutta Mboya,Yes- affordable,106369,No,4,44.00,44.00
+8/28/2023,Lutta Mboya,Yes- affordable,98640,No,1,31.00,31.00
+9/19/2023,Allan Mutuota,No-financial constraints,115068,No,3,28.00,28.00
+9/22/2023,Lutta Mboya,No- low priority,55680,No,4,30.00,30.00
+8/12/2023,Greyson Ochanda,No- low priority,41993,No,1,38.00,38.00
+7/19/2023,Greyson Ochanda,No-financial constraints,118598,No,4,24.00,24.00
+8/3/2023,Greyson Ochanda,No- low priority,109333,No,3,48.00,48.00
+8/27/2023,Greyson Ochanda,Yes- affordable,109745,No,3,22.00,22.00
+9/4/2023,Lutta Mboya,No- low priority,99841,No,3,48.00,48.00
+8/4/2023,Rose Kanyiri,No-financial constraints,80443,No,7,49.00,49.00
+8/13/2023,Allan Mutuota,No- low priority,44139,No,2,22.00,22.00
+7/11/2023,Allan Mutuota,Yes- affordable,76018,No,6,38.00,38.00
+8/31/2023,Allan Mutuota,No- low priority,67884,No,2,28.00,28.00
+7/23/2023,Greyson Ochanda,No- low priority,87278,No,7,44.00,44.00
+9/17/2023,Allan Mutuota,No-financial constraints,91925,No,7,39.00,39.00
+8/9/2023,Greyson Ochanda,No-financial constraints,134111,No,1,49.00,49.00
+8/13/2023,Greyson Ochanda,Yes- affordable,63870,No,4,25.00,25.00
+7/10/2023,Greyson Ochanda,No- low priority,130658,No,3,28.00,28.00
+9/20/2023,Greyson Ochanda,Yes- affordable,132606,No,1,26.00,26.00
+9/11/2023,Greyson Ochanda,No-financial constraints,104262,No,7,41.00,41.00
+6/27/2023,Allan Mutuota,Yes- affordable,73838,Yes,7,38.00,53.00
+6/11/2023,Greyson Ochanda,Yes- affordable,83435,No,3,28.00,28.00
+8/12/2023,Greyson Ochanda,No- low priority,119665,No,5,28.00,28.00
+9/15/2023,Allan Mutuota,Yes- affordable,130764,No,6,28.00,28.00
+7/22/2023,Allan Mutuota,No- low priority,62242,No,6,48.00,48.00
+8/26/2023,Rose Kanyiri,No- low priority,46358,No,4,33.00,33.00
+9/11/2023,Allan Mutuota,Not reachable,57044,No,3,48.00,48.00
+7/29/2023,Allan Mutuota,No- low priority,28277,No,1,43.00,43.00
+9/29/2023,Lutta Mboya,Yes- affordable,64216,No,2,42.00,42.00
+9/4/2023,Allan Mutuota,Yes- affordable,109746,No,2,48.00,48.00
+9/26/2023,Lutta Mboya,Yes- affordable,115646,No,6,40.00,40.00
+7/30/2023,Greyson Ochanda,No- low priority,43280,No,1,39.00,39.00
+9/16/2023,Greyson Ochanda,Yes- affordable,49530,No,7,34.00,34.00
+7/11/2023,Allan Mutuota,Yes- affordable,89161,No,4,28.00,28.00
+8/11/2023,Allan Mutuota,No- low priority,97411,No,2,39.00,39.00
+7/20/2023,Greyson Ochanda,No- low priority,32781,No,7,34.00,34.00
+8/9/2023,Greyson Ochanda,Yes- affordable,90480,Yes,2,41.00,41.00
+7/11/2023,Rose Kanyiri,Not reachable,67770,No,4,44.00,44.00
+9/24/2023,Lutta Mboya,Yes- affordable,27438,No,1,44.00,44.00
+7/17/2023,Greyson Ochanda,Yes- affordable,82173,No,6,22.00,22.00
+9/3/2023,Allan Mutuota,Yes- affordable,129617,No,7,49.00,49.00
+6/29/2023,Rose Kanyiri,Yes- affordable,88374,No,2,32.00,32.00
+9/2/2023,Allan Mutuota,Yes- affordable,54049,No,3,35.00,35.00
+8/18/2023,Rose Kanyiri,No- low priority,74168,No,5,40.00,40.00
+8/26/2023,Lutta Mboya,Yes- affordable,47971,No,4,35.00,35.00
+7/14/2023,Greyson Ochanda,Not reachable,55828,No,5,45.00,45.00
+8/31/2023,Lutta Mboya,Yes- affordable,16259,No,4,24.00,24.00
+9/17/2023,Lutta Mboya,Yes- affordable,113753,Yes,4,49.00,54.00
+6/6/2023,Greyson Ochanda,Not reachable,112740,No,4,39.00,39.00
+6/30/2023,Allan Mutuota,No-financial constraints,96692,No,6,28.00,28.00
+6/22/2023,Rose Kanyiri,Yes- affordable,41178,No,2,39.00,39.00
+8/3/2023,Greyson Ochanda,Yes- affordable,74784,No,3,36.00,36.00
+7/15/2023,Allan Mutuota,No- low priority,111101,No,6,36.00,36.00
+9/25/2023,Lutta Mboya,Yes- affordable,133469,No,6,47.00,47.00
+7/11/2023,Allan Mutuota,Not reachable,40568,No,2,48.00,48.00
+9/23/2023,Greyson Ochanda,Yes- affordable,98472,No,2,37.00,37.00
+6/18/2023,Allan Mutuota,No- low priority,86259,No,4,22.00,22.00
+8/5/2023,Allan Mutuota,No-financial constraints,23175,No,5,22.00,22.00
+9/18/2023,Lutta Mboya,Yes- affordable,132650,No,2,44.00,44.00
+9/26/2023,Lutta Mboya,Yes- affordable,126506,No,6,32.00,32.00
+8/6/2023,Greyson Ochanda,Not reachable,131505,No,2,48.00,48.00
+9/11/2023,Rose Kanyiri,No- low priority,52317,No,2,47.00,47.00
+9/3/2023,Allan Mutuota,Yes- affordable,128249,No,4,29.00,29.00
+8/15/2023,Rose Kanyiri,No- low priority,22036,No,3,32.00,32.00
+9/29/2023,Greyson Ochanda,Yes- affordable,113167,Yes,2,33.00,56.00
+9/25/2023,Allan Mutuota,Yes- affordable,30218,No,1,47.00,47.00
+8/10/2023,Rose Kanyiri,Yes- affordable,82056,No,1,43.00,43.00
+9/13/2023,Allan Mutuota,No-financial constraints,43853,No,6,27.00,27.00
+9/29/2023,Lutta Mboya,Yes- affordable,98257,Yes,1,36.00,55.00
+9/2/2023,Lutta Mboya,Yes- affordable,57226,No,4,45.00,45.00
+9/8/2023,Lutta Mboya,Yes- affordable,37980,No,5,31.00,31.00
+9/20/2023,Greyson Ochanda,Yes- affordable,132606,Yes,2,25.00,44.00
+9/27/2023,Allan Mutuota,No- service dissatisfaction,126547,No,3,42.00,42.00
+9/12/2023,Lutta Mboya,Yes- affordable,91004,No,2,31.00,31.00
+8/28/2023,Lutta Mboya,Yes- affordable,128778,No,5,38.00,38.00
+6/2/2023,Rose Kanyiri,Not reachable,134375,No,6,28.00,28.00
+9/3/2023,Allan Mutuota,Yes- affordable,102218,No,4,24.00,24.00
+6/1/2023,Allan Mutuota,No- low priority,65665,No,6,39.00,39.00
+8/30/2023,Greyson Ochanda,Yes- affordable,74461,No,7,42.00,42.00
+6/4/2023,Allan Mutuota,No- low priority,67423,No,5,40.00,40.00
+9/6/2023,Allan Mutuota,Yes- affordable,105638,No,4,27.00,27.00
+9/20/2023,Greyson Ochanda,Yes- affordable,123583,Yes,2,24.00,53.00
+8/3/2023,Greyson Ochanda,Not reachable,103873,No,2,27.00,27.00
+9/27/2023,Lutta Mboya,Yes- affordable,102712,No,2,43.00,43.00
+8/30/2023,Greyson Ochanda,No- service dissatisfaction,51951,No,7,48.00,48.00
+8/6/2023,Allan Mutuota,No- low priority,65614,No,3,37.00,37.00
+9/17/2023,Lutta Mboya,Yes- affordable,113753,No,7,25.00,25.00
+6/2/2023,Greyson Ochanda,Yes- affordable,49528,No,7,28.00,28.00
+6/1/2023,Greyson Ochanda,No- low priority,8098,No,4,40.00,40.00
+7/9/2023,Greyson Ochanda,No-financial constraints,84765,No,1,27.00,27.00
+9/11/2023,Rose Kanyiri,No- service dissatisfaction,127257,No,6,48.00,48.00
+6/19/2023,Greyson Ochanda,No- low priority,121033,No,6,49.00,49.00
+9/13/2023,Lutta Mboya,Yes- affordable,96727,No,3,24.00,24.00
+7/18/2023,Allan Mutuota,No- low priority,80712,No,3,31.00,31.00
+8/10/2023,Greyson Ochanda,No-financial constraints,114651,No,2,42.00,42.00
+9/5/2023,Lutta Mboya,Yes- affordable,120330,No,3,24.00,24.00
+9/6/2023,Allan Mutuota,No- service dissatisfaction,58184,No,5,37.00,37.00
+8/31/2023,Allan Mutuota,Yes- affordable,119979,No,1,28.00,28.00
+6/24/2023,Rose Kanyiri,No- low priority,127575,No,2,44.00,44.00
+8/31/2023,Rose Kanyiri,No-financial constraints,23900,No,3,44.00,44.00
+9/11/2023,Lutta Mboya,Yes- affordable,117674,Yes,4,30.00,56.00
+8/9/2023,Allan Mutuota,No-financial constraints,53156,No,7,50.00,50.00
+9/25/2023,Allan Mutuota,Yes- affordable,103947,No,2,31.00,31.00
+6/7/2023,Allan Mutuota,Not reachable,123372,No,7,37.00,37.00
+9/13/2023,Allan Mutuota,No- low priority,54028,No,1,37.00,37.00
+9/12/2023,Lutta Mboya,Yes- affordable,47370,No,5,41.00,41.00
+9/4/2023,Allan Mutuota,Yes- affordable,99843,Yes,7,35.00,54.00
+9/1/2023,Rose Kanyiri,Yes- affordable,51067,No,7,45.00,45.00
+6/2/2023,Allan Mutuota,No- low priority,21434,No,1,37.00,37.00
+8/16/2023,Greyson Ochanda,No- low priority,60005,No,1,42.00,42.00
+8/30/2023,Allan Mutuota,No- service dissatisfaction,93512,No,1,39.00,39.00
+7/12/2023,Allan Mutuota,No- low priority,92961,No,1,49.00,49.00
+8/25/2023,Allan Mutuota,No- low priority,113840,No,2,32.00,32.00
+8/14/2023,Greyson Ochanda,Yes- affordable,79180,Yes,5,34.00,56.00
+9/20/2023,Rose Kanyiri,Yes- affordable,7879,No,5,40.00,40.00
+9/22/2023,Lutta Mboya,Yes- affordable,107604,No,1,36.00,36.00
+7/12/2023,Rose Kanyiri,No- low priority,121461,No,3,32.00,32.00
+8/27/2023,Lutta Mboya,Yes- affordable,29009,No,2,39.00,39.00
+8/17/2023,Rose Kanyiri,Yes- affordable,89575,No,6,26.00,26.00
+6/2/2023,Greyson Ochanda,Yes- affordable,90278,No,3,25.00,25.00
+9/25/2023,Greyson Ochanda,No- low priority,126359,No,6,37.00,37.00
+6/20/2023,Allan Mutuota,No-financial constraints,124029,No,6,38.00,38.00
+9/27/2023,Lutta Mboya,No- low priority,114410,No,5,45.00,45.00
+9/30/2023,Rose Kanyiri,No- service dissatisfaction,107307,No,3,33.00,33.00
+7/8/2023,Greyson Ochanda,No- low priority,117543,No,7,29.00,29.00
+6/9/2023,Rose Kanyiri,No-financial constraints,123457,No,4,42.00,42.00
+6/11/2023,Allan Mutuota,No-financial constraints,79765,No,6,39.00,39.00
+8/31/2023,Lutta Mboya,No-financial constraints,66053,No,1,35.00,35.00
+8/18/2023,Rose Kanyiri,No- low priority,53165,No,7,39.00,39.00
+7/23/2023,Rose Kanyiri,No-financial constraints,51660,No,4,28.00,28.00
+8/19/2023,Greyson Ochanda,No- low priority,101584,No,3,44.00,44.00
+7/9/2023,Greyson Ochanda,No- low priority,115065,No,3,28.00,28.00
+9/19/2023,Greyson Ochanda,No- service dissatisfaction,60091,No,5,23.00,23.00
+8/13/2023,Rose Kanyiri,No- low priority,2888,No,3,28.00,28.00
+6/3/2023,Rose Kanyiri,No- low priority,89603,No,3,42.00,42.00
+9/16/2023,Rose Kanyiri,Yes- affordable,401,No,3,22.00,22.00
+9/1/2023,Lutta Mboya,No-financial constraints,58451,No,7,42.00,42.00
+7/28/2023,Rose Kanyiri,No- low priority,104169,No,5,28.00,28.00
+9/5/2023,Lutta Mboya,Yes- affordable,67501,No,7,32.00,32.00
+6/16/2023,Greyson Ochanda,No- low priority,122504,No,4,38.00,38.00
+7/1/2023,Rose Kanyiri,No- low priority,75029,No,5,50.00,50.00
+9/28/2023,Lutta Mboya,Yes- affordable,69182,No,6,25.00,25.00
+7/17/2023,Greyson Ochanda,No- low priority,77553,No,5,37.00,37.00
+8/4/2023,Rose Kanyiri,No-financial constraints,69741,No,6,33.00,33.00
+6/14/2023,Greyson Ochanda,No-financial constraints,105514,No,7,31.00,31.00
+9/23/2023,Allan Mutuota,Yes- affordable,63924,No,1,44.00,44.00
+8/26/2023,Lutta Mboya,Yes- affordable,107037,No,2,26.00,26.00
+8/6/2023,Greyson Ochanda,Not reachable,133904,No,7,37.00,37.00
+9/1/2023,Allan Mutuota,No- low priority,115641,No,1,34.00,34.00
+9/9/2023,Lutta Mboya,Yes- affordable,121281,No,3,33.00,33.00
+8/26/2023,Lutta Mboya,Yes- affordable,62310,No,4,31.00,31.00
+9/16/2023,Allan Mutuota,No- low priority,114536,No,5,43.00,43.00
+8/23/2023,Allan Mutuota,No- low priority,73877,No,4,36.00,36.00
+9/4/2023,Allan Mutuota,Yes- affordable,124345,Yes,2,46.00,41.00
+8/8/2023,Greyson Ochanda,Yes- affordable,96378,Yes,3,35.00,46.00
+6/7/2023,Rose Kanyiri,Not reachable,130344,No,6,49.00,49.00
+6/1/2023,Allan Mutuota,Not reachable,96396,No,7,40.00,40.00
+8/10/2023,Allan Mutuota,No- low priority,84425,No,6,48.00,48.00
+9/6/2023,Allan Mutuota,Yes- affordable,41897,No,7,30.00,30.00
+9/21/2023,Allan Mutuota,Yes- affordable,129901,No,4,23.00,23.00
+7/30/2023,Greyson Ochanda,Yes- affordable,78521,No,2,24.00,24.00
+7/15/2023,Allan Mutuota,No- low priority,34940,No,7,32.00,32.00
+7/16/2023,Allan Mutuota,No- low priority,118221,No,2,43.00,43.00
+6/24/2023,Greyson Ochanda,No-financial constraints,49865,No,6,23.00,23.00
+7/20/2023,Allan Mutuota,No- low priority,20800,No,6,27.00,27.00
+7/15/2023,Greyson Ochanda,No- low priority,116318,No,5,35.00,35.00
+7/5/2023,Greyson Ochanda,No-financial constraints,59196,No,2,39.00,39.00
+9/9/2023,Rose Kanyiri,No-financial constraints,82875,No,7,28.00,28.00
+7/12/2023,Rose Kanyiri,No- low priority,132953,No,4,30.00,30.00
+9/27/2023,Rose Kanyiri,No- service dissatisfaction,36762,No,2,50.00,50.00
+6/22/2023,Greyson Ochanda,No- low priority,112852,No,6,48.00,48.00
+9/15/2023,Rose Kanyiri,No-financial constraints,125266,No,1,45.00,45.00
+8/1/2023,Allan Mutuota,No- low priority,84995,No,1,34.00,34.00
+8/22/2023,Rose Kanyiri,Yes- affordable,87023,No,2,38.00,38.00
+7/28/2023,Allan Mutuota,Yes- affordable,87274,No,6,43.00,43.00
+8/28/2023,Allan Mutuota,No- low priority,107269,No,5,24.00,24.00
+6/16/2023,Rose Kanyiri,No- low priority,132636,No,4,39.00,39.00
+6/15/2023,Rose Kanyiri,Not reachable,65243,No,6,28.00,28.00
+7/20/2023,Rose Kanyiri,No- low priority,119661,No,2,40.00,40.00
+6/2/2023,Allan Mutuota,No-financial constraints,29415,No,5,49.00,49.00
+8/31/2023,Lutta Mboya,Yes- affordable,109359,No,4,44.00,44.00
+9/18/2023,Lutta Mboya,Yes- affordable,101439,No,1,44.00,44.00
+9/20/2023,Greyson Ochanda,Yes- affordable,53697,No,6,27.00,27.00
+9/13/2023,Rose Kanyiri,Yes- affordable,27310,Yes,3,49.00,51.00
+9/1/2023,Lutta Mboya,Yes- affordable,38908,No,6,40.00,40.00
+9/16/2023,Lutta Mboya,Yes- affordable,78662,Yes,5,41.00,40.00
+8/31/2023,Rose Kanyiri,No- service dissatisfaction,22723,No,5,31.00,31.00
+9/15/2023,Greyson Ochanda,Yes- affordable,104401,No,3,44.00,44.00
+6/29/2023,Greyson Ochanda,No- low priority,121050,No,4,42.00,42.00
+9/19/2023,Allan Mutuota,No- service dissatisfaction,127607,No,3,32.00,32.00
+8/18/2023,Rose Kanyiri,No-financial constraints,45751,No,1,44.00,44.00
+8/3/2023,Rose Kanyiri,Yes- affordable,83284,Yes,7,25.00,43.00
+7/23/2023,Allan Mutuota,Yes- affordable,87439,No,7,24.00,24.00
+8/17/2023,Greyson Ochanda,Yes- affordable,76502,No,5,45.00,45.00
+7/14/2023,Greyson Ochanda,Not reachable,45902,No,1,30.00,30.00
+9/16/2023,Lutta Mboya,Yes- affordable,131258,No,4,38.00,38.00
+7/16/2023,Rose Kanyiri,No- low priority,84004,No,7,40.00,40.00
+9/13/2023,Allan Mutuota,No-financial constraints,111250,No,6,44.00,44.00
+9/8/2023,Allan Mutuota,Yes- affordable,121911,Yes,4,29.00,54.00
+7/18/2023,Greyson Ochanda,No- low priority,4025,No,4,36.00,36.00
+6/26/2023,Greyson Ochanda,No- low priority,15354,No,7,23.00,23.00
+8/13/2023,Rose Kanyiri,No- low priority,77498,No,4,44.00,44.00
+6/30/2023,Allan Mutuota,Not reachable,93634,No,1,23.00,23.00
+9/27/2023,Allan Mutuota,Yes- affordable,98803,No,3,26.00,26.00
+8/8/2023,Greyson Ochanda,No- low priority,109035,No,3,36.00,36.00
+8/9/2023,Greyson Ochanda,Yes- affordable,90480,No,3,50.00,50.00
+6/30/2023,Allan Mutuota,Yes- affordable,85683,No,3,31.00,31.00
+7/20/2023,Greyson Ochanda,No-financial constraints,42372,No,5,49.00,49.00
+9/26/2023,Allan Mutuota,Yes- affordable,101075,No,7,29.00,29.00
+9/16/2023,Rose Kanyiri,Yes- affordable,108380,No,1,44.00,44.00
+6/25/2023,Rose Kanyiri,Yes- affordable,83312,No,2,41.00,41.00
+6/25/2023,Greyson Ochanda,No- low priority,90026,No,3,34.00,34.00
+6/2/2023,Greyson Ochanda,No- low priority,91399,No,2,38.00,38.00
+8/29/2023,Allan Mutuota,Yes- affordable,28748,No,7,33.00,33.00
+9/12/2023,Rose Kanyiri,Yes- affordable,1538,No,2,34.00,34.00
+8/24/2023,Lutta Mboya,No-financial constraints,129173,No,2,35.00,35.00
+9/7/2023,Greyson Ochanda,Yes- affordable,59943,No,5,47.00,47.00
+6/27/2023,Rose Kanyiri,Yes- affordable,77295,No,2,36.00,36.00
+7/17/2023,Allan Mutuota,No-financial constraints,29211,No,7,24.00,24.00
+7/9/2023,Greyson Ochanda,Not reachable,117651,No,5,37.00,37.00
+8/24/2023,Allan Mutuota,No- service dissatisfaction,103513,No,4,38.00,38.00
+6/12/2023,Greyson Ochanda,No- low priority,89987,No,1,48.00,48.00
+9/2/2023,Lutta Mboya,Not reachable,117547,No,2,39.00,39.00
+6/28/2023,Allan Mutuota,No-financial constraints,124147,No,1,48.00,48.00
+9/23/2023,Lutta Mboya,Yes- affordable,115134,No,4,49.00,49.00
+9/6/2023,Allan Mutuota,No- low priority,76017,No,6,39.00,39.00
+6/25/2023,Allan Mutuota,Not reachable,132376,No,7,29.00,29.00
+9/21/2023,Lutta Mboya,Yes- affordable,6286,Yes,2,33.00,47.00
+9/11/2023,Rose Kanyiri,Yes- affordable,36832,No,3,40.00,40.00
+9/15/2023,Allan Mutuota,No- low priority,113462,No,1,31.00,31.00
+9/29/2023,Lutta Mboya,Yes- affordable,110621,No,6,30.00,30.00
+9/19/2023,Rose Kanyiri,Yes- affordable,118257,No,6,35.00,35.00
+7/1/2023,Greyson Ochanda,No- low priority,91613,No,4,37.00,37.00
+9/18/2023,Lutta Mboya,Yes- affordable,101439,Yes,1,30.00,51.00
+7/10/2023,Allan Mutuota,No- low priority,79933,No,6,42.00,42.00
+7/15/2023,Rose Kanyiri,No- low priority,90418,No,6,43.00,43.00
+7/30/2023,Rose Kanyiri,No- low priority,85633,No,3,40.00,40.00
+7/11/2023,Rose Kanyiri,Yes- affordable,75988,No,2,36.00,36.00
+8/30/2023,Lutta Mboya,Yes- affordable,123392,No,5,44.00,44.00
+6/4/2023,Rose Kanyiri,Not reachable,124037,No,6,40.00,40.00
+6/18/2023,Allan Mutuota,Yes- affordable,85182,No,1,32.00,32.00
+7/4/2023,Rose Kanyiri,No- low priority,104929,No,7,43.00,43.00
+7/7/2023,Greyson Ochanda,No- low priority,76487,No,6,27.00,27.00
+9/22/2023,Greyson Ochanda,Yes- affordable,104086,Yes,6,32.00,47.00
+8/30/2023,Greyson Ochanda,Yes- affordable,120657,No,3,23.00,23.00
+9/12/2023,Lutta Mboya,Yes- affordable,21431,No,6,37.00,37.00
+9/25/2023,Allan Mutuota,Yes- affordable,118307,Yes,1,37.00,47.00
+9/26/2023,Lutta Mboya,Yes- affordable,119700,No,2,38.00,38.00
+7/20/2023,Rose Kanyiri,No- low priority,113442,No,5,38.00,38.00
+9/15/2023,Greyson Ochanda,Not reachable,42391,No,2,27.00,27.00
+8/25/2023,Allan Mutuota,No-financial constraints,94962,No,3,26.00,26.00
+7/15/2023,Greyson Ochanda,No- low priority,95260,No,3,33.00,33.00
+7/1/2023,Rose Kanyiri,Yes- affordable,89846,No,5,35.00,35.00
+8/9/2023,Allan Mutuota,Not reachable,97068,No,3,39.00,39.00
+9/8/2023,Lutta Mboya,Yes- affordable,110042,Yes,5,30.00,52.00
+8/8/2023,Allan Mutuota,No- low priority,121305,No,3,29.00,29.00
+7/14/2023,Rose Kanyiri,Yes- affordable,80359,No,3,30.00,30.00
+7/4/2023,Greyson Ochanda,Yes- affordable,87015,No,2,38.00,38.00
+9/14/2023,Lutta Mboya,Yes- affordable,126120,No,5,29.00,29.00
+7/1/2023,Rose Kanyiri,No- low priority,103553,No,5,32.00,32.00
+9/2/2023,Rose Kanyiri,No-financial constraints,125140,No,5,27.00,27.00
+7/17/2023,Allan Mutuota,Not reachable,108345,No,7,44.00,44.00
+8/11/2023,Rose Kanyiri,No- low priority,47248,No,5,24.00,24.00
+8/3/2023,Greyson Ochanda,Not reachable,34694,No,4,37.00,37.00
+6/10/2023,Allan Mutuota,No- low priority,105874,No,1,39.00,39.00
+9/25/2023,Greyson Ochanda,No- low priority,130759,No,3,36.00,36.00
+7/27/2023,Greyson Ochanda,Yes- affordable,74013,No,5,27.00,27.00
+6/11/2023,Greyson Ochanda,No- low priority,119312,No,2,47.00,47.00
+8/29/2023,Lutta Mboya,Yes- affordable,52118,No,3,22.00,22.00
+7/8/2023,Allan Mutuota,Yes- affordable,83125,No,6,46.00,46.00
+9/4/2023,Allan Mutuota,Not reachable,118201,No,7,31.00,31.00
+6/30/2023,Rose Kanyiri,No- low priority,58247,No,7,32.00,32.00
+7/18/2023,Greyson Ochanda,No-financial constraints,71055,No,7,43.00,43.00
+6/5/2023,Rose Kanyiri,No- low priority,67619,No,4,34.00,34.00
+8/21/2023,Rose Kanyiri,Yes- affordable,82715,No,3,26.00,26.00
+8/26/2023,Lutta Mboya,Yes- affordable,57227,No,4,33.00,33.00
+9/29/2023,Lutta Mboya,Yes- affordable,113270,No,7,39.00,39.00
+7/7/2023,Rose Kanyiri,Not reachable,53088,No,5,45.00,45.00
+8/31/2023,Lutta Mboya,Yes- affordable,30779,Yes,3,46.00,52.00
+9/2/2023,Allan Mutuota,Yes- affordable,54049,Yes,1,25.00,54.00
+8/14/2023,Allan Mutuota,No- low priority,127441,No,6,42.00,42.00
+8/14/2023,Greyson Ochanda,No-financial constraints,114721,No,6,40.00,40.00
+6/1/2023,Greyson Ochanda,No-financial constraints,32009,No,4,43.00,43.00
+8/30/2023,Rose Kanyiri,No- service dissatisfaction,59278,No,4,50.00,50.00
+8/29/2023,Allan Mutuota,No-financial constraints,23123,No,7,30.00,30.00
+8/29/2023,Allan Mutuota,No-financial constraints,120791,No,2,42.00,42.00
+8/27/2023,Allan Mutuota,No- service dissatisfaction,20955,No,7,27.00,27.00
+9/8/2023,Lutta Mboya,Yes- affordable,108135,No,3,23.00,23.00
+9/14/2023,Allan Mutuota,Yes- affordable,118032,No,5,37.00,37.00
+9/24/2023,Lutta Mboya,Yes- affordable,132891,No,5,36.00,36.00
+7/8/2023,Greyson Ochanda,No-financial constraints,95252,No,2,30.00,30.00
+7/29/2023,Allan Mutuota,No- low priority,32019,No,1,50.00,50.00
+6/11/2023,Rose Kanyiri,No-financial constraints,108808,No,3,28.00,28.00
+9/21/2023,Allan Mutuota,Yes- affordable,56883,No,2,36.00,36.00
+6/17/2023,Greyson Ochanda,No-financial constraints,93459,No,1,36.00,36.00
+9/5/2023,Lutta Mboya,No-financial constraints,55363,No,7,24.00,24.00
+9/2/2023,Lutta Mboya,No-financial constraints,12828,No,5,26.00,26.00
+9/19/2023,Lutta Mboya,Yes- affordable,97761,No,4,25.00,25.00
+8/25/2023,Allan Mutuota,Yes- affordable,87636,No,2,47.00,47.00
+9/20/2023,Lutta Mboya,Yes- affordable,62486,No,6,50.00,50.00
+7/1/2023,Greyson Ochanda,Yes- affordable,81422,Yes,7,37.00,45.00
+7/20/2023,Greyson Ochanda,No- low priority,125105,No,2,40.00,40.00
+9/25/2023,Allan Mutuota,Yes- affordable,121710,No,3,41.00,41.00
+6/22/2023,Rose Kanyiri,No- low priority,81035,No,5,34.00,34.00
+9/29/2023,Greyson Ochanda,Yes- affordable,107973,No,5,29.00,29.00
+8/14/2023,Greyson Ochanda,Yes- affordable,79180,No,2,45.00,45.00
+6/28/2023,Allan Mutuota,Yes- affordable,76499,Yes,6,43.00,43.00
+8/7/2023,Greyson Ochanda,No- low priority,76899,No,3,22.00,22.00
+6/18/2023,Allan Mutuota,Yes- affordable,77162,No,7,23.00,23.00
+6/25/2023,Rose Kanyiri,Yes- affordable,77489,No,4,42.00,42.00
+6/22/2023,Allan Mutuota,No-financial constraints,117369,No,7,45.00,45.00
+6/20/2023,Rose Kanyiri,No- low priority,126358,No,5,45.00,45.00
+7/6/2023,Greyson Ochanda,Yes- affordable,75563,No,2,29.00,29.00
+9/29/2023,Greyson Ochanda,Yes- affordable,108462,No,2,26.00,26.00
+6/17/2023,Rose Kanyiri,No- low priority,75946,No,2,22.00,22.00
+8/25/2023,Allan Mutuota,No- low priority,119213,No,5,49.00,49.00
+7/20/2023,Greyson Ochanda,No-financial constraints,134087,No,7,38.00,38.00
+9/19/2023,Lutta Mboya,Yes- affordable,117702,No,4,22.00,22.00
+8/1/2023,Rose Kanyiri,No- low priority,47116,No,1,30.00,30.00
+9/4/2023,Allan Mutuota,Yes- affordable,29369,No,7,46.00,46.00
+7/1/2023,Rose Kanyiri,No-financial constraints,89901,No,6,27.00,27.00
+9/29/2023,Allan Mutuota,Yes- affordable,16033,No,5,24.00,24.00
+8/1/2023,Allan Mutuota,No- low priority,108707,No,6,34.00,34.00
+9/17/2023,Allan Mutuota,Yes- affordable,67921,No,4,28.00,28.00
+9/25/2023,Lutta Mboya,Yes- affordable,55742,No,5,24.00,24.00
+7/8/2023,Greyson Ochanda,No-financial constraints,59980,No,6,42.00,42.00
+9/20/2023,Allan Mutuota,No-financial constraints,125863,No,4,35.00,35.00
+9/22/2023,Allan Mutuota,Not reachable,116562,No,2,35.00,35.00
+6/6/2023,Allan Mutuota,No- low priority,133378,No,6,27.00,27.00
+8/18/2023,Greyson Ochanda,No- low priority,60022,No,7,46.00,46.00
+9/18/2023,Lutta Mboya,Yes- affordable,101195,Yes,6,50.00,56.00
+7/8/2023,Allan Mutuota,No- low priority,85440,No,3,47.00,47.00
+6/11/2023,Greyson Ochanda,Yes- affordable,85007,No,1,49.00,49.00
+9/20/2023,Allan Mutuota,Yes- affordable,132965,No,5,41.00,41.00
+9/18/2023,Rose Kanyiri,Not reachable,44332,No,5,46.00,46.00
+8/30/2023,Lutta Mboya,Yes- affordable,60448,No,3,34.00,34.00
+6/16/2023,Greyson Ochanda,Not reachable,110313,No,1,44.00,44.00
+9/7/2023,Lutta Mboya,Yes- affordable,42748,No,3,41.00,41.00
+6/16/2023,Allan Mutuota,No- low priority,95783,No,4,22.00,22.00
+8/28/2023,Lutta Mboya,Yes- affordable,101710,No,4,49.00,49.00
+9/10/2023,Lutta Mboya,Yes- affordable,95570,No,3,47.00,47.00
+7/21/2023,Allan Mutuota,No- low priority,119420,No,5,38.00,38.00
+7/23/2023,Allan Mutuota,Yes- affordable,83464,Yes,3,46.00,42.00
+7/11/2023,Greyson Ochanda,Yes- affordable,83935,No,1,37.00,37.00
+6/4/2023,Rose Kanyiri,No- low priority,46082,No,2,26.00,26.00
+8/27/2023,Greyson Ochanda,No- service dissatisfaction,114813,No,5,38.00,38.00
+7/29/2023,Greyson Ochanda,No- low priority,34236,No,7,27.00,27.00
+8/12/2023,Rose Kanyiri,Yes- affordable,84634,No,1,48.00,48.00
+8/31/2023,Rose Kanyiri,No- low priority,103260,No,1,45.00,45.00
+8/2/2023,Greyson Ochanda,Yes- affordable,82019,No,6,45.00,45.00
+9/9/2023,Lutta Mboya,Yes- affordable,18342,No,4,47.00,47.00
+6/28/2023,Rose Kanyiri,No- low priority,105118,No,2,33.00,33.00
+8/24/2023,Lutta Mboya,Yes- affordable,74476,No,4,45.00,45.00
+6/23/2023,Allan Mutuota,No- low priority,96065,No,2,31.00,31.00
+8/30/2023,Allan Mutuota,Yes- affordable,33697,No,2,44.00,44.00
+7/1/2023,Rose Kanyiri,Yes- affordable,86835,No,2,31.00,31.00
+9/29/2023,Lutta Mboya,Yes- affordable,25805,Yes,7,34.00,42.00
+6/22/2023,Rose Kanyiri,No- low priority,114774,No,7,40.00,40.00
+8/30/2023,Rose Kanyiri,Not reachable,48121,No,1,30.00,30.00
+7/27/2023,Greyson Ochanda,No- low priority,336,No,6,22.00,22.00
+8/24/2023,Allan Mutuota,Yes- affordable,112973,No,1,27.00,27.00
+7/12/2023,Greyson Ochanda,No-financial constraints,102700,No,4,34.00,34.00
+8/21/2023,Allan Mutuota,No- low priority,79158,No,4,39.00,39.00
+9/18/2023,Lutta Mboya,No-financial constraints,25332,No,6,42.00,42.00
+9/30/2023,Lutta Mboya,Yes- affordable,105158,No,1,28.00,28.00
+7/21/2023,Rose Kanyiri,No- low priority,86081,No,1,50.00,50.00
+9/25/2023,Allan Mutuota,Yes- affordable,29594,No,1,45.00,45.00
+7/20/2023,Rose Kanyiri,No- low priority,90245,No,1,26.00,26.00
+7/19/2023,Allan Mutuota,No- low priority,94620,No,1,48.00,48.00
+9/13/2023,Allan Mutuota,No- low priority,124365,No,4,43.00,43.00
+6/11/2023,Allan Mutuota,No- low priority,114312,No,2,44.00,44.00
+9/3/2023,Allan Mutuota,No- low priority,63317,No,5,44.00,44.00
+9/15/2023,Greyson Ochanda,Not reachable,14107,No,6,33.00,33.00
+6/26/2023,Rose Kanyiri,No-financial constraints,41482,No,3,50.00,50.00
+8/14/2023,Greyson Ochanda,No-financial constraints,48279,No,5,26.00,26.00
+9/11/2023,Allan Mutuota,Not reachable,100898,No,3,34.00,34.00
+8/20/2023,Allan Mutuota,No-financial constraints,56912,No,2,47.00,47.00
+6/12/2023,Greyson Ochanda,No-financial constraints,96348,No,5,50.00,50.00
+9/30/2023,Allan Mutuota,Yes- affordable,50943,No,7,30.00,30.00
+8/19/2023,Rose Kanyiri,No-financial constraints,31049,No,1,30.00,30.00
+9/29/2023,Rose Kanyiri,No- service dissatisfaction,115109,No,1,28.00,28.00
+8/15/2023,Allan Mutuota,No-financial constraints,51431,No,7,23.00,23.00
+9/18/2023,Lutta Mboya,Yes- affordable,58198,No,3,43.00,43.00
+9/21/2023,Lutta Mboya,Yes- affordable,94975,No,3,26.00,26.00
+9/9/2023,Rose Kanyiri,Not reachable,19747,No,3,31.00,31.00
+8/28/2023,Greyson Ochanda,Yes- affordable,48505,No,4,24.00,24.00
+9/20/2023,Allan Mutuota,Yes- affordable,118602,No,5,49.00,49.00
+9/20/2023,Allan Mutuota,No- service dissatisfaction,120977,No,3,36.00,36.00
+7/27/2023,Rose Kanyiri,Yes- affordable,78273,No,7,35.00,35.00
+8/28/2023,Greyson Ochanda,Yes- affordable,48505,Yes,4,32.00,42.00
+9/17/2023,Lutta Mboya,No- service dissatisfaction,121035,No,1,29.00,29.00
+6/22/2023,Greyson Ochanda,No- low priority,76993,No,3,44.00,44.00
+8/10/2023,Greyson Ochanda,No- low priority,110681,No,5,24.00,24.00
+8/29/2023,Allan Mutuota,Yes- affordable,53087,No,3,33.00,33.00
+9/20/2023,Greyson Ochanda,Yes- affordable,123583,No,7,44.00,44.00
+8/29/2023,Greyson Ochanda,Yes- affordable,63725,No,4,41.00,41.00
+7/1/2023,Rose Kanyiri,Not reachable,129408,No,1,38.00,38.00
+8/23/2023,Allan Mutuota,Not reachable,65183,No,6,46.00,46.00
+9/28/2023,Lutta Mboya,Yes- affordable,110924,No,5,26.00,26.00
+9/8/2023,Allan Mutuota,Yes- affordable,121911,No,4,40.00,40.00
+8/4/2023,Rose Kanyiri,No- low priority,81880,No,2,34.00,34.00
+9/17/2023,Lutta Mboya,Yes- affordable,69997,No,6,40.00,40.00
+7/14/2023,Allan Mutuota,No- low priority,90310,No,2,27.00,27.00
+8/7/2023,Greyson Ochanda,No-financial constraints,49104,No,7,23.00,23.00
+8/17/2023,Allan Mutuota,Not reachable,101713,No,1,29.00,29.00
+6/2/2023,Greyson Ochanda,No- low priority,105349,No,7,31.00,31.00
+7/7/2023,Greyson Ochanda,No- low priority,78711,No,3,26.00,26.00
+8/12/2023,Rose Kanyiri,Yes- affordable,84634,Yes,2,26.00,46.00
+9/20/2023,Allan Mutuota,Yes- affordable,44943,No,4,41.00,41.00
+8/8/2023,Allan Mutuota,Not reachable,104857,No,5,39.00,39.00
+7/9/2023,Allan Mutuota,Yes- affordable,84819,No,6,28.00,28.00
+7/3/2023,Rose Kanyiri,No-financial constraints,105527,No,5,37.00,37.00
+8/25/2023,Greyson Ochanda,Yes- affordable,118795,No,3,39.00,39.00
+8/26/2023,Lutta Mboya,Yes- affordable,62310,Yes,5,41.00,43.00
+9/22/2023,Rose Kanyiri,No- service dissatisfaction,123836,No,2,30.00,30.00
+9/8/2023,Allan Mutuota,Yes- affordable,99991,No,5,35.00,35.00
+6/1/2023,Greyson Ochanda,No- low priority,91107,No,5,28.00,28.00
+7/5/2023,Rose Kanyiri,No-financial constraints,92772,No,1,23.00,23.00
+7/9/2023,Allan Mutuota,No- low priority,54279,No,1,29.00,29.00
+6/25/2023,Greyson Ochanda,No- low priority,123099,No,2,43.00,43.00
+9/1/2023,Lutta Mboya,Yes- affordable,62216,No,4,33.00,33.00
+6/2/2023,Allan Mutuota,No- low priority,100833,No,6,34.00,34.00
+6/25/2023,Allan Mutuota,No- low priority,86276,No,1,22.00,22.00
+9/14/2023,Lutta Mboya,Yes- affordable,97902,No,4,31.00,31.00
+7/2/2023,Rose Kanyiri,No-financial constraints,115576,No,2,31.00,31.00
+6/15/2023,Rose Kanyiri,No-financial constraints,117051,No,6,46.00,46.00
+9/10/2023,Lutta Mboya,Yes- affordable,47715,No,6,33.00,33.00
+7/30/2023,Allan Mutuota,Yes- affordable,85988,No,4,22.00,22.00
+7/30/2023,Rose Kanyiri,Yes- affordable,90047,No,4,35.00,35.00
+7/26/2023,Rose Kanyiri,No- low priority,122126,No,1,46.00,46.00
+9/18/2023,Allan Mutuota,Yes- affordable,9876,No,7,22.00,22.00
+9/24/2023,Lutta Mboya,Yes- affordable,92214,No,3,38.00,38.00
+9/30/2023,Lutta Mboya,Yes- affordable,46066,No,2,48.00,48.00
+9/11/2023,Lutta Mboya,Yes- affordable,24447,No,1,37.00,37.00
+6/26/2023,Greyson Ochanda,No- low priority,113663,No,1,36.00,36.00
+9/13/2023,Allan Mutuota,Yes- affordable,127851,No,7,25.00,25.00
+9/14/2023,Lutta Mboya,Yes- affordable,63333,No,2,23.00,23.00
+9/23/2023,Lutta Mboya,Yes- affordable,110994,No,5,35.00,35.00
+9/30/2023,Allan Mutuota,Yes- affordable,113767,No,6,31.00,31.00
+6/8/2023,Rose Kanyiri,No- low priority,87610,No,6,45.00,45.00
+8/27/2023,Allan Mutuota,Yes- affordable,114468,No,3,48.00,48.00
+8/25/2023,Lutta Mboya,Yes- affordable,82593,No,1,39.00,39.00
+9/12/2023,Rose Kanyiri,Yes- affordable,117188,No,1,50.00,50.00
+9/12/2023,Lutta Mboya,Yes- affordable,109148,No,7,33.00,33.00
+9/1/2023,Allan Mutuota,No- low priority,107155,No,6,27.00,27.00
+8/14/2023,Rose Kanyiri,No- low priority,75244,No,2,50.00,50.00
+9/4/2023,Allan Mutuota,No-financial constraints,119343,No,5,44.00,44.00
+8/29/2023,Lutta Mboya,Yes- affordable,103041,Yes,7,25.00,46.00
+7/21/2023,Allan Mutuota,No-financial constraints,117199,No,7,28.00,28.00
+9/24/2023,Lutta Mboya,Yes- affordable,116266,No,3,48.00,48.00
+6/2/2023,Rose Kanyiri,No- low priority,100576,No,4,45.00,45.00
+6/13/2023,Rose Kanyiri,Not reachable,53273,No,7,24.00,24.00
+9/2/2023,Rose Kanyiri,No-financial constraints,66093,No,3,23.00,23.00
+7/20/2023,Allan Mutuota,No-financial constraints,113859,No,4,38.00,38.00
+7/28/2023,Allan Mutuota,Yes- affordable,76201,No,5,33.00,33.00
+9/24/2023,Lutta Mboya,Yes- affordable,39771,No,6,34.00,34.00
+8/2/2023,Rose Kanyiri,No- low priority,60342,No,1,42.00,42.00
+9/21/2023,Rose Kanyiri,No-financial constraints,47916,No,3,23.00,23.00
+8/24/2023,Lutta Mboya,Yes- affordable,110157,No,4,38.00,38.00
+7/21/2023,Rose Kanyiri,No- low priority,121935,No,1,32.00,32.00
+7/26/2023,Greyson Ochanda,No- low priority,95436,No,5,37.00,37.00
+9/2/2023,Lutta Mboya,Yes- affordable,119065,No,4,49.00,49.00
+7/7/2023,Allan Mutuota,No-financial constraints,134177,No,5,35.00,35.00
+8/20/2023,Greyson Ochanda,No-financial constraints,54050,No,1,46.00,46.00
+7/9/2023,Rose Kanyiri,Yes- affordable,89434,No,6,22.00,22.00
+7/21/2023,Greyson Ochanda,Not reachable,119437,No,5,31.00,31.00
+9/11/2023,Allan Mutuota,Yes- affordable,128045,No,6,50.00,50.00
+6/25/2023,Rose Kanyiri,Not reachable,94969,No,5,43.00,43.00
+9/2/2023,Lutta Mboya,Yes- affordable,121931,No,6,23.00,23.00
+6/19/2023,Greyson Ochanda,No- low priority,117896,No,3,33.00,33.00
+6/3/2023,Greyson Ochanda,No- low priority,100540,No,7,40.00,40.00
+9/13/2023,Allan Mutuota,No-financial constraints,101834,No,4,30.00,30.00
+6/22/2023,Rose Kanyiri,Yes- affordable,90936,No,7,41.00,41.00
+6/27/2023,Greyson Ochanda,Not reachable,120340,No,6,47.00,47.00
+6/16/2023,Greyson Ochanda,No- low priority,86760,No,3,46.00,46.00
+6/30/2023,Rose Kanyiri,Yes- affordable,91148,No,4,23.00,23.00
+6/24/2023,Greyson Ochanda,Yes- affordable,87848,Yes,4,25.00,54.00
+9/3/2023,Rose Kanyiri,No- low priority,112741,No,7,44.00,44.00
+9/12/2023,Greyson Ochanda,Yes- affordable,121175,No,2,39.00,39.00
+8/10/2023,Greyson Ochanda,No- low priority,114360,No,2,31.00,31.00
+7/24/2023,Greyson Ochanda,No- low priority,102222,No,3,39.00,39.00
+7/30/2023,Rose Kanyiri,No- low priority,50370,No,5,27.00,27.00
+7/13/2023,Greyson Ochanda,No- low priority,90296,No,5,28.00,28.00
+9/25/2023,Greyson Ochanda,Yes- affordable,65190,No,5,36.00,36.00
+9/29/2023,Allan Mutuota,Yes- affordable,66286,No,5,44.00,44.00
+9/30/2023,Allan Mutuota,Yes- affordable,112560,No,1,47.00,47.00
+6/16/2023,Rose Kanyiri,No- low priority,31577,No,5,44.00,44.00
+7/21/2023,Rose Kanyiri,Not reachable,98972,No,4,38.00,38.00
+8/31/2023,Rose Kanyiri,Yes- affordable,48313,No,4,22.00,22.00
+9/1/2023,Rose Kanyiri,No- service dissatisfaction,58722,No,7,28.00,28.00
+8/11/2023,Rose Kanyiri,No- low priority,77930,No,7,43.00,43.00
+7/13/2023,Allan Mutuota,Yes- affordable,90419,No,2,26.00,26.00
+8/25/2023,Lutta Mboya,Yes- affordable,116184,No,6,31.00,31.00
+6/14/2023,Allan Mutuota,No-financial constraints,100555,No,6,33.00,33.00
+9/8/2023,Greyson Ochanda,Yes- affordable,114539,No,4,46.00,46.00
+7/24/2023,Rose Kanyiri,No- low priority,83664,No,1,36.00,36.00
+7/9/2023,Allan Mutuota,Not reachable,15622,No,1,30.00,30.00
+8/12/2023,Rose Kanyiri,Yes- affordable,90199,Yes,6,44.00,56.00
+9/7/2023,Allan Mutuota,No- low priority,45978,No,6,38.00,38.00
+8/30/2023,Lutta Mboya,Yes- affordable,99261,No,1,30.00,30.00
+8/6/2023,Greyson Ochanda,Yes- affordable,74882,No,3,22.00,22.00
+9/3/2023,Rose Kanyiri,No- service dissatisfaction,62045,No,5,25.00,25.00
+9/6/2023,Lutta Mboya,Not reachable,107703,No,1,42.00,42.00
+6/7/2023,Allan Mutuota,No- low priority,95627,No,5,40.00,40.00
+9/18/2023,Lutta Mboya,Yes- affordable,121859,No,2,49.00,49.00
+9/28/2023,Allan Mutuota,No- service dissatisfaction,130595,No,2,48.00,48.00
+9/13/2023,Lutta Mboya,No- service dissatisfaction,134222,No,1,50.00,50.00
+8/30/2023,Allan Mutuota,Yes- affordable,101450,No,1,42.00,42.00
+8/14/2023,Rose Kanyiri,No- low priority,125636,No,2,50.00,50.00
+6/22/2023,Greyson Ochanda,No- low priority,96074,No,5,40.00,40.00
+9/18/2023,Lutta Mboya,Yes- affordable,101195,No,3,49.00,49.00
+9/12/2023,Allan Mutuota,Yes- affordable,62866,No,5,50.00,50.00
+7/28/2023,Rose Kanyiri,No- low priority,424,No,1,39.00,39.00
+8/24/2023,Allan Mutuota,No- service dissatisfaction,106425,No,7,36.00,36.00
+9/25/2023,Greyson Ochanda,Yes- affordable,59696,Yes,1,34.00,54.00
+7/21/2023,Greyson Ochanda,Yes- affordable,80263,No,2,25.00,25.00
+8/20/2023,Rose Kanyiri,Yes- affordable,86069,No,6,23.00,23.00
+9/22/2023,Lutta Mboya,Yes- affordable,94832,No,6,43.00,43.00
+6/27/2023,Greyson Ochanda,Yes- affordable,84024,No,4,43.00,43.00
+6/27/2023,Rose Kanyiri,Not reachable,83648,No,6,40.00,40.00
+9/2/2023,Rose Kanyiri,No- service dissatisfaction,42845,No,5,31.00,31.00
+8/9/2023,Allan Mutuota,No- low priority,98824,No,7,43.00,43.00
+9/25/2023,Greyson Ochanda,Yes- affordable,99629,No,7,50.00,50.00
+8/6/2023,Rose Kanyiri,No- low priority,109991,No,3,48.00,48.00
+7/16/2023,Greyson Ochanda,Yes- affordable,90247,Yes,3,38.00,41.00
+9/20/2023,Greyson Ochanda,Yes- affordable,56873,No,3,42.00,42.00
+6/22/2023,Rose Kanyiri,Yes- affordable,41178,Yes,6,24.00,57.00
+8/15/2023,Allan Mutuota,No- low priority,95402,No,5,45.00,45.00
+7/7/2023,Allan Mutuota,Not reachable,113249,No,3,33.00,33.00
+9/1/2023,Allan Mutuota,No- low priority,120623,No,2,43.00,43.00
+9/4/2023,Allan Mutuota,No-financial constraints,121736,No,6,47.00,47.00
+8/18/2023,Rose Kanyiri,No-financial constraints,118246,No,5,42.00,42.00
+8/29/2023,Allan Mutuota,Yes- affordable,93639,No,5,24.00,24.00
+9/10/2023,Lutta Mboya,Yes- affordable,36733,No,5,41.00,41.00
+9/11/2023,Allan Mutuota,No-financial constraints,110461,No,5,31.00,31.00
+6/29/2023,Rose Kanyiri,No- low priority,86968,No,2,31.00,31.00
+7/2/2023,Greyson Ochanda,Yes- affordable,83282,No,5,24.00,24.00
+7/12/2023,Rose Kanyiri,No- low priority,75985,No,4,27.00,27.00
+7/28/2023,Greyson Ochanda,Not reachable,99265,No,2,49.00,49.00
+6/21/2023,Greyson Ochanda,No- low priority,112654,No,7,47.00,47.00
+6/28/2023,Rose Kanyiri,No- low priority,90951,No,4,49.00,49.00
+6/5/2023,Allan Mutuota,No-financial constraints,109072,No,6,42.00,42.00
+8/16/2023,Allan Mutuota,Yes- affordable,81933,No,6,37.00,37.00
+9/18/2023,Allan Mutuota,Yes- affordable,115574,No,5,44.00,44.00
+7/22/2023,Allan Mutuota,No- low priority,120284,No,5,43.00,43.00
+8/14/2023,Allan Mutuota,No- low priority,66098,No,2,50.00,50.00
+8/30/2023,Lutta Mboya,Yes- affordable,53957,No,4,42.00,42.00
+7/24/2023,Allan Mutuota,Yes- affordable,88215,No,1,38.00,38.00
+9/21/2023,Lutta Mboya,Yes- affordable,94153,No,6,27.00,27.00
+7/23/2023,Rose Kanyiri,No- low priority,96619,No,1,39.00,39.00
+9/10/2023,Lutta Mboya,Yes- affordable,44067,No,7,45.00,45.00
+6/1/2023,Greyson Ochanda,No-financial constraints,103354,No,2,31.00,31.00
+8/29/2023,Rose Kanyiri,No- low priority,98954,No,3,32.00,32.00
+8/24/2023,Lutta Mboya,Yes- affordable,93027,No,1,35.00,35.00
+7/4/2023,Rose Kanyiri,No- low priority,49306,No,1,34.00,34.00
+7/25/2023,Greyson Ochanda,No- low priority,66599,No,2,29.00,29.00
+6/28/2023,Allan Mutuota,No-financial constraints,49232,No,5,26.00,26.00
+9/18/2023,Lutta Mboya,Not reachable,67117,No,5,25.00,25.00
+9/25/2023,Greyson Ochanda,Yes- affordable,59696,No,4,42.00,42.00
+7/9/2023,Greyson Ochanda,No- low priority,95642,No,1,42.00,42.00
+9/20/2023,Lutta Mboya,Yes- affordable,66102,No,7,38.00,38.00
+9/24/2023,Allan Mutuota,No-financial constraints,133436,No,1,29.00,29.00
+6/13/2023,Allan Mutuota,Yes- affordable,109206,No,4,24.00,24.00
+9/7/2023,Allan Mutuota,No-financial constraints,22138,No,6,49.00,49.00
+8/4/2023,Greyson Ochanda,No-financial constraints,58371,No,2,23.00,23.00
+8/31/2023,Allan Mutuota,Yes- affordable,100770,No,7,39.00,39.00
+7/22/2023,Greyson Ochanda,No- low priority,20292,No,6,42.00,42.00
+8/8/2023,Rose Kanyiri,Yes- affordable,86792,No,4,33.00,33.00
+8/6/2023,Allan Mutuota,No- low priority,53210,No,1,38.00,38.00
+6/18/2023,Rose Kanyiri,Not reachable,115903,No,3,42.00,42.00
+6/15/2023,Greyson Ochanda,No- low priority,98685,No,6,41.00,41.00
+8/9/2023,Rose Kanyiri,No- low priority,103025,No,1,48.00,48.00
+9/20/2023,Rose Kanyiri,No- service dissatisfaction,120306,No,4,26.00,26.00
+7/23/2023,Rose Kanyiri,No-financial constraints,121875,No,6,23.00,23.00
+8/7/2023,Rose Kanyiri,Not reachable,37027,No,2,49.00,49.00
+6/17/2023,Rose Kanyiri,No- low priority,82918,No,2,26.00,26.00
+9/29/2023,Greyson Ochanda,Yes- affordable,78076,No,3,47.00,47.00
+8/18/2023,Allan Mutuota,No-financial constraints,115357,No,3,32.00,32.00
+8/15/2023,Greyson Ochanda,No- low priority,95668,No,6,47.00,47.00
+7/9/2023,Rose Kanyiri,Yes- affordable,74769,No,6,33.00,33.00
+8/12/2023,Greyson Ochanda,No- low priority,118036,No,4,47.00,47.00
+7/6/2023,Rose Kanyiri,No- low priority,90621,No,3,37.00,37.00
+9/24/2023,Lutta Mboya,Yes- affordable,101977,No,6,41.00,41.00
+8/5/2023,Greyson Ochanda,No-financial constraints,70373,No,7,33.00,33.00
+9/1/2023,Lutta Mboya,Yes- affordable,126834,No,2,22.00,22.00
+9/7/2023,Lutta Mboya,Yes- affordable,101593,No,2,36.00,36.00
+7/3/2023,Allan Mutuota,No- low priority,37801,No,2,39.00,39.00
+7/25/2023,Rose Kanyiri,No-financial constraints,106603,No,7,48.00,48.00
+8/31/2023,Allan Mutuota,No- low priority,93245,No,6,31.00,31.00
+6/6/2023,Rose Kanyiri,No-financial constraints,45042,No,4,33.00,33.00
+7/16/2023,Greyson Ochanda,Yes- affordable,90247,No,7,29.00,29.00
+7/25/2023,Rose Kanyiri,Not reachable,95670,No,4,33.00,33.00
+6/20/2023,Rose Kanyiri,No- low priority,103810,No,1,31.00,31.00
+8/25/2023,Rose Kanyiri,Yes- affordable,48155,No,4,29.00,29.00
+9/21/2023,Lutta Mboya,Yes- affordable,45412,No,7,42.00,42.00
+7/7/2023,Rose Kanyiri,No- low priority,81375,No,6,22.00,22.00
+6/2/2023,Rose Kanyiri,No- low priority,51658,No,6,25.00,25.00
+9/3/2023,Lutta Mboya,Yes- affordable,23578,No,3,31.00,31.00
+8/9/2023,Rose Kanyiri,No- low priority,130446,No,2,22.00,22.00
+6/12/2023,Greyson Ochanda,No- low priority,118309,No,5,45.00,45.00
+8/22/2023,Allan Mutuota,No- low priority,82745,No,1,32.00,32.00
+8/2/2023,Allan Mutuota,No- low priority,41206,No,1,37.00,37.00
+9/25/2023,Allan Mutuota,Yes- affordable,64627,No,3,37.00,37.00
+8/25/2023,Lutta Mboya,Yes- affordable,108796,No,6,28.00,28.00
+9/15/2023,Allan Mutuota,No-financial constraints,119341,No,2,36.00,36.00
+9/15/2023,Lutta Mboya,Yes- affordable,39527,No,2,37.00,37.00
+8/27/2023,Allan Mutuota,Yes- affordable,109999,No,7,47.00,47.00
+9/11/2023,Rose Kanyiri,Yes- affordable,29822,No,1,45.00,45.00
+9/3/2023,Allan Mutuota,Yes- affordable,128249,Yes,3,25.00,52.00
+9/17/2023,Lutta Mboya,Yes- affordable,114983,No,4,41.00,41.00
+9/3/2023,Lutta Mboya,Yes- affordable,59112,No,1,28.00,28.00
+9/26/2023,Allan Mutuota,No-financial constraints,96220,No,5,46.00,46.00
+8/7/2023,Allan Mutuota,No- low priority,116432,No,2,40.00,40.00
+9/13/2023,Lutta Mboya,Yes- affordable,118222,Yes,6,45.00,45.00
+6/19/2023,Greyson Ochanda,No- low priority,132113,No,7,39.00,39.00
+6/1/2023,Rose Kanyiri,Not reachable,30280,No,4,25.00,25.00
+9/21/2023,Rose Kanyiri,No-financial constraints,103928,No,7,38.00,38.00
+6/26/2023,Rose Kanyiri,Not reachable,132225,No,4,48.00,48.00
+9/27/2023,Allan Mutuota,Yes- affordable,125152,No,6,32.00,32.00
+8/9/2023,Greyson Ochanda,No-financial constraints,64035,No,5,27.00,27.00
+7/19/2023,Rose Kanyiri,Yes- affordable,82030,No,3,39.00,39.00
+7/1/2023,Allan Mutuota,No- low priority,117253,No,6,25.00,25.00
+8/21/2023,Allan Mutuota,No- low priority,132798,No,3,34.00,34.00
+8/8/2023,Allan Mutuota,Yes- affordable,79264,No,3,44.00,44.00
+9/26/2023,Allan Mutuota,No- low priority,95161,No,5,47.00,47.00
+9/1/2023,Rose Kanyiri,Yes- affordable,43208,No,4,48.00,48.00
+9/19/2023,Lutta Mboya,Yes- affordable,51857,No,1,45.00,45.00
+9/6/2023,Lutta Mboya,Yes- affordable,134380,No,5,22.00,22.00
+9/22/2023,Lutta Mboya,Yes- affordable,53926,No,3,34.00,34.00
+8/19/2023,Rose Kanyiri,No- low priority,53800,No,7,40.00,40.00
+7/4/2023,Rose Kanyiri,No- low priority,39044,No,6,48.00,48.00
+9/2/2023,Greyson Ochanda,Yes- affordable,97968,No,4,44.00,44.00
+8/15/2023,Greyson Ochanda,No- low priority,57079,No,1,49.00,49.00
+8/23/2023,Rose Kanyiri,No-financial constraints,25813,No,1,37.00,37.00
+6/12/2023,Greyson Ochanda,Not reachable,113165,No,2,44.00,44.00
+9/7/2023,Lutta Mboya,No-financial constraints,101454,No,1,42.00,42.00
+8/25/2023,Lutta Mboya,Yes- affordable,5863,No,2,40.00,40.00
+6/8/2023,Greyson Ochanda,No-financial constraints,112405,No,2,47.00,47.00
+6/19/2023,Greyson Ochanda,No- low priority,85808,No,4,35.00,35.00
+6/11/2023,Rose Kanyiri,No-financial constraints,58848,No,1,24.00,24.00
+8/2/2023,Greyson Ochanda,No- low priority,115578,No,2,33.00,33.00
+9/26/2023,Rose Kanyiri,No- service dissatisfaction,101018,No,6,40.00,40.00
+6/1/2023,Rose Kanyiri,No-financial constraints,105720,No,6,31.00,31.00
+9/21/2023,Allan Mutuota,No- low priority,56765,No,3,49.00,49.00
+9/8/2023,Greyson Ochanda,No-financial constraints,28225,No,7,22.00,22.00
+9/12/2023,Greyson Ochanda,Yes- affordable,124367,No,1,40.00,40.00
+7/18/2023,Rose Kanyiri,Yes- affordable,87276,No,2,50.00,50.00
+8/22/2023,Rose Kanyiri,Yes- affordable,75198,No,5,39.00,39.00
+9/28/2023,Rose Kanyiri,No- service dissatisfaction,116437,No,4,27.00,27.00
+7/19/2023,Greyson Ochanda,No-financial constraints,99584,No,5,46.00,46.00
+7/28/2023,Allan Mutuota,No- low priority,27562,No,3,49.00,49.00
+6/14/2023,Greyson Ochanda,Yes- affordable,75873,No,3,22.00,22.00
+9/5/2023,Greyson Ochanda,Yes- affordable,122259,No,6,38.00,38.00
+7/7/2023,Allan Mutuota,No- low priority,90995,No,4,24.00,24.00
+8/8/2023,Rose Kanyiri,Yes- affordable,83816,Yes,2,44.00,48.00
+6/27/2023,Allan Mutuota,No-financial constraints,120384,No,7,45.00,45.00
+8/29/2023,Greyson Ochanda,No-financial constraints,106575,No,3,33.00,33.00
+8/6/2023,Greyson Ochanda,Yes- affordable,75087,No,7,28.00,28.00
+7/2/2023,Allan Mutuota,No- low priority,65565,No,1,36.00,36.00
+9/11/2023,Allan Mutuota,Yes- affordable,114265,Yes,2,49.00,46.00
+6/7/2023,Allan Mutuota,Yes- affordable,78499,No,6,27.00,27.00
+8/8/2023,Rose Kanyiri,No- low priority,27368,No,2,40.00,40.00
+9/5/2023,Greyson Ochanda,No- low priority,62131,No,4,31.00,31.00
+6/11/2023,Greyson Ochanda,No- low priority,107520,No,2,29.00,29.00
+8/27/2023,Rose Kanyiri,No- low priority,48434,No,3,48.00,48.00
+9/23/2023,Allan Mutuota,Yes- affordable,44558,No,3,26.00,26.00
+7/25/2023,Rose Kanyiri,No- low priority,87389,No,7,31.00,31.00
+8/23/2023,Allan Mutuota,No-financial constraints,57963,No,3,38.00,38.00
+8/15/2023,Greyson Ochanda,No- low priority,15788,No,4,25.00,25.00
+9/1/2023,Greyson Ochanda,Yes- affordable,61788,No,6,30.00,30.00
+8/25/2023,Lutta Mboya,No- service dissatisfaction,122509,No,5,23.00,23.00
+8/3/2023,Greyson Ochanda,Not reachable,27181,No,3,35.00,35.00
+7/2/2023,Allan Mutuota,Not reachable,95337,No,7,43.00,43.00
+9/15/2023,Rose Kanyiri,No-financial constraints,122180,No,6,38.00,38.00
+9/15/2023,Allan Mutuota,No-financial constraints,36652,No,2,34.00,34.00
+9/16/2023,Lutta Mboya,No- low priority,93704,No,3,28.00,28.00
+8/12/2023,Rose Kanyiri,No- low priority,120403,No,6,40.00,40.00
+7/26/2023,Rose Kanyiri,No- low priority,39516,No,4,23.00,23.00
+9/24/2023,Rose Kanyiri,Yes- affordable,44292,No,5,32.00,32.00
+9/20/2023,Rose Kanyiri,No- service dissatisfaction,125610,No,3,23.00,23.00
+6/3/2023,Allan Mutuota,No- low priority,78977,No,1,27.00,27.00
+9/2/2023,Rose Kanyiri,No- low priority,99379,No,1,45.00,45.00
+9/19/2023,Lutta Mboya,Yes- affordable,64094,No,4,39.00,39.00
+7/22/2023,Greyson Ochanda,No-financial constraints,112903,No,4,48.00,48.00
+9/14/2023,Lutta Mboya,Yes- affordable,26354,No,6,38.00,38.00
+8/5/2023,Rose Kanyiri,No- low priority,86943,No,2,25.00,25.00
+7/21/2023,Greyson Ochanda,No- low priority,65338,No,3,44.00,44.00
+6/7/2023,Allan Mutuota,No-financial constraints,128579,No,5,42.00,42.00
+8/18/2023,Greyson Ochanda,No- low priority,96471,No,7,49.00,49.00
+9/3/2023,Rose Kanyiri,No- low priority,109337,No,3,38.00,38.00
+8/27/2023,Greyson Ochanda,No-financial constraints,103484,No,6,39.00,39.00
+6/7/2023,Allan Mutuota,Yes- affordable,75355,Yes,1,24.00,43.00
+9/11/2023,Lutta Mboya,Yes- affordable,64750,Yes,6,49.00,51.00
+6/1/2023,Rose Kanyiri,Not reachable,107222,No,2,49.00,49.00
+7/20/2023,Rose Kanyiri,No-financial constraints,32110,No,3,24.00,24.00
+8/29/2023,Greyson Ochanda,Not reachable,121159,No,6,32.00,32.00
+9/24/2023,Lutta Mboya,Yes- affordable,116266,Yes,1,38.00,53.00
+9/2/2023,Lutta Mboya,Yes- affordable,118617,No,5,35.00,35.00
+9/21/2023,Lutta Mboya,No- low priority,95413,No,4,39.00,39.00
+6/11/2023,Greyson Ochanda,No- low priority,42417,No,5,25.00,25.00
+8/31/2023,Lutta Mboya,No- low priority,49949,No,7,46.00,46.00
+9/7/2023,Lutta Mboya,Yes- affordable,112261,No,6,42.00,42.00
+9/13/2023,Lutta Mboya,Yes- affordable,91371,No,1,34.00,34.00
+8/20/2023,Rose Kanyiri,Yes- affordable,81013,No,6,46.00,46.00
+9/29/2023,Greyson Ochanda,Yes- affordable,113167,No,7,37.00,37.00
+6/8/2023,Greyson Ochanda,No-financial constraints,129141,No,3,43.00,43.00
+8/30/2023,Lutta Mboya,Yes- affordable,102038,No,6,35.00,35.00
+9/5/2023,Lutta Mboya,Yes- affordable,93595,No,3,35.00,35.00
+9/4/2023,Lutta Mboya,Yes- affordable,96087,No,6,50.00,50.00
+7/18/2023,Greyson Ochanda,No-financial constraints,49570,No,2,38.00,38.00
+9/3/2023,Lutta Mboya,Yes- affordable,24643,No,5,26.00,26.00
+7/23/2023,Allan Mutuota,No- low priority,81551,No,7,36.00,36.00
+8/23/2023,Rose Kanyiri,Not reachable,68648,No,2,45.00,45.00
+8/25/2023,Allan Mutuota,Yes- affordable,112569,No,7,32.00,32.00
+9/30/2023,Allan Mutuota,Yes- affordable,52351,No,6,27.00,27.00
+6/9/2023,Rose Kanyiri,Yes- affordable,76366,No,6,45.00,45.00
+9/23/2023,Lutta Mboya,Yes- affordable,53611,No,4,39.00,39.00
+6/2/2023,Allan Mutuota,No- low priority,109224,No,3,48.00,48.00
+9/22/2023,Rose Kanyiri,Yes- affordable,31703,No,5,29.00,29.00
+8/27/2023,Lutta Mboya,Yes- affordable,129244,No,2,32.00,32.00
+7/7/2023,Rose Kanyiri,No- low priority,129209,No,2,45.00,45.00
+9/29/2023,Lutta Mboya,Yes- affordable,18584,No,3,28.00,28.00
+7/26/2023,Allan Mutuota,No- low priority,132347,No,7,27.00,27.00
+9/20/2023,Allan Mutuota,Yes- affordable,66397,No,3,25.00,25.00
+6/14/2023,Allan Mutuota,No- low priority,98598,No,4,36.00,36.00
+8/4/2023,Rose Kanyiri,No-financial constraints,60526,No,7,32.00,32.00
+9/22/2023,Allan Mutuota,No- low priority,126032,No,1,47.00,47.00
+7/10/2023,Allan Mutuota,No-financial constraints,106137,No,2,27.00,27.00
+9/24/2023,Lutta Mboya,Yes- affordable,57418,No,4,31.00,31.00
+6/21/2023,Allan Mutuota,Yes- affordable,53613,No,4,28.00,28.00
+8/29/2023,Allan Mutuota,No-financial constraints,61800,No,7,22.00,22.00
+8/13/2023,Greyson Ochanda,No- low priority,84354,No,3,43.00,43.00
+9/15/2023,Lutta Mboya,Not reachable,57800,No,1,36.00,36.00
+6/9/2023,Allan Mutuota,No- low priority,74996,No,1,42.00,42.00
+9/6/2023,Allan Mutuota,Yes- affordable,38460,No,4,38.00,38.00
+7/18/2023,Greyson Ochanda,No- low priority,125807,No,5,49.00,49.00
+8/3/2023,Allan Mutuota,Not reachable,118021,No,1,36.00,36.00
+6/16/2023,Allan Mutuota,No- low priority,43915,No,6,27.00,27.00
+8/30/2023,Lutta Mboya,Yes- affordable,123392,Yes,3,28.00,41.00
+7/27/2023,Rose Kanyiri,No- low priority,27877,No,1,50.00,50.00
+8/8/2023,Rose Kanyiri,Yes- affordable,83816,No,1,35.00,35.00
+8/10/2023,Allan Mutuota,Not reachable,133218,No,5,38.00,38.00
+8/26/2023,Allan Mutuota,No- low priority,58157,No,5,46.00,46.00
+7/10/2023,Rose Kanyiri,No-financial constraints,18686,No,7,27.00,27.00
+9/2/2023,Allan Mutuota,Yes- affordable,64954,No,7,42.00,42.00
+9/18/2023,Rose Kanyiri,Yes- affordable,31569,No,3,23.00,23.00
+6/20/2023,Allan Mutuota,No- low priority,23162,No,6,28.00,28.00
+6/22/2023,Allan Mutuota,No-financial constraints,37909,No,4,32.00,32.00
+8/10/2023,Rose Kanyiri,No- low priority,103247,No,3,23.00,23.00
+9/15/2023,Lutta Mboya,Yes- affordable,124742,No,7,42.00,42.00
+8/28/2023,Allan Mutuota,Yes- affordable,19502,No,7,27.00,27.00
+9/23/2023,Allan Mutuota,No- service dissatisfaction,54356,No,4,44.00,44.00
+9/17/2023,Greyson Ochanda,Not reachable,105501,No,3,34.00,34.00
+8/12/2023,Rose Kanyiri,Yes- affordable,77594,No,3,34.00,34.00
+8/31/2023,Lutta Mboya,Yes- affordable,105580,No,6,36.00,36.00
+9/10/2023,Lutta Mboya,Yes- affordable,123984,No,1,23.00,23.00
+9/2/2023,Lutta Mboya,Yes- affordable,99729,No,6,41.00,41.00
+7/9/2023,Rose Kanyiri,No- low priority,83427,No,6,47.00,47.00
+9/10/2023,Greyson Ochanda,No- service dissatisfaction,49826,No,6,39.00,39.00
+7/19/2023,Rose Kanyiri,Yes- affordable,86910,No,2,44.00,44.00
+9/17/2023,Lutta Mboya,Yes- affordable,62526,No,2,35.00,35.00
+6/20/2023,Allan Mutuota,No- low priority,133432,No,4,38.00,38.00
+9/30/2023,Allan Mutuota,Yes- affordable,47022,No,1,47.00,47.00
+7/17/2023,Allan Mutuota,Not reachable,105866,No,6,35.00,35.00
+7/19/2023,Rose Kanyiri,No- low priority,93977,No,3,23.00,23.00
+7/23/2023,Allan Mutuota,No-financial constraints,96723,No,3,33.00,33.00
+6/17/2023,Allan Mutuota,Yes- affordable,74159,No,3,33.00,33.00
+6/10/2023,Greyson Ochanda,No-financial constraints,132741,No,3,48.00,48.00
+7/31/2023,Allan Mutuota,Not reachable,102360,No,1,24.00,24.00
+7/26/2023,Allan Mutuota,No- low priority,80934,No,7,43.00,43.00
+9/9/2023,Lutta Mboya,Yes- affordable,16030,Yes,2,42.00,48.00
+8/26/2023,Rose Kanyiri,No- service dissatisfaction,124629,No,6,26.00,26.00
+9/19/2023,Lutta Mboya,Yes- affordable,51447,Yes,7,26.00,47.00
+7/8/2023,Allan Mutuota,No- low priority,74165,No,5,33.00,33.00
+9/17/2023,Allan Mutuota,Not reachable,115481,No,3,27.00,27.00
+6/3/2023,Allan Mutuota,No- low priority,100258,No,7,25.00,25.00
+9/10/2023,Lutta Mboya,Yes- affordable,65470,No,1,43.00,43.00
+9/6/2023,Lutta Mboya,Yes- affordable,103328,No,2,32.00,32.00
+6/19/2023,Greyson Ochanda,Yes- affordable,83167,No,1,38.00,38.00
+9/12/2023,Allan Mutuota,No- low priority,92304,No,4,29.00,29.00
+6/10/2023,Rose Kanyiri,Yes- affordable,109293,No,6,23.00,23.00
+9/23/2023,Allan Mutuota,Yes- affordable,119710,No,5,22.00,22.00
+8/8/2023,Rose Kanyiri,Yes- affordable,86792,Yes,3,24.00,55.00
+7/5/2023,Rose Kanyiri,Yes- affordable,86558,No,1,48.00,48.00
+8/31/2023,Lutta Mboya,No- low priority,31608,No,1,49.00,49.00
+8/5/2023,Greyson Ochanda,No- low priority,121446,No,6,45.00,45.00
+6/26/2023,Allan Mutuota,No- low priority,131675,No,4,34.00,34.00
+9/25/2023,Allan Mutuota,No-financial constraints,85294,No,4,44.00,44.00
+8/21/2023,Rose Kanyiri,No-financial constraints,64658,No,2,29.00,29.00
+7/23/2023,Allan Mutuota,Yes- affordable,83464,No,7,30.00,30.00
+7/26/2023,Rose Kanyiri,No- low priority,84550,No,4,42.00,42.00
+6/22/2023,Rose Kanyiri,No- low priority,131801,No,1,41.00,41.00
+9/3/2023,Lutta Mboya,Yes- affordable,129588,No,5,46.00,46.00
+9/2/2023,Lutta Mboya,Yes- affordable,119065,Yes,3,44.00,52.00
+7/13/2023,Allan Mutuota,No-financial constraints,48609,No,5,47.00,47.00
+9/17/2023,Lutta Mboya,Yes- affordable,117508,No,2,40.00,40.00
+7/13/2023,Allan Mutuota,No- low priority,126388,No,3,34.00,34.00
+9/7/2023,Allan Mutuota,Yes- affordable,127703,No,6,40.00,40.00
+8/25/2023,Greyson Ochanda,Yes- affordable,115510,No,1,31.00,31.00
+7/1/2023,Greyson Ochanda,Not reachable,64637,No,7,31.00,31.00
+8/6/2023,Greyson Ochanda,No- low priority,51654,No,6,32.00,32.00
+7/5/2023,Allan Mutuota,No- low priority,51007,No,2,27.00,27.00
+8/14/2023,Allan Mutuota,No- low priority,85870,No,5,40.00,40.00
+8/28/2023,Allan Mutuota,No- low priority,43284,No,5,49.00,49.00
+9/28/2023,Lutta Mboya,Yes- affordable,67112,Yes,6,35.00,48.00
+8/24/2023,Lutta Mboya,Yes- affordable,88359,Yes,3,35.00,44.00
+9/18/2023,Greyson Ochanda,Yes- affordable,124621,No,1,33.00,33.00
+8/13/2023,Allan Mutuota,No-financial constraints,130181,No,4,42.00,42.00
+9/11/2023,Lutta Mboya,Yes- affordable,42676,No,3,39.00,39.00
+6/15/2023,Allan Mutuota,Yes- affordable,63473,No,3,29.00,29.00
+6/9/2023,Greyson Ochanda,No- low priority,85783,No,1,45.00,45.00
+7/3/2023,Rose Kanyiri,Yes- affordable,74356,No,7,24.00,24.00
+8/2/2023,Greyson Ochanda,No- low priority,98179,No,3,43.00,43.00
+7/28/2023,Allan Mutuota,Not reachable,92365,No,4,43.00,43.00
+9/25/2023,Lutta Mboya,Yes- affordable,122820,No,3,42.00,42.00
+9/15/2023,Lutta Mboya,Yes- affordable,3183,No,5,41.00,41.00
+9/22/2023,Greyson Ochanda,No- low priority,111789,No,6,47.00,47.00
+9/12/2023,Rose Kanyiri,Yes- affordable,23119,No,3,40.00,40.00
+9/28/2023,Allan Mutuota,Yes- affordable,118151,No,5,43.00,43.00
+8/26/2023,Rose Kanyiri,No-financial constraints,107425,No,2,25.00,25.00
+9/21/2023,Allan Mutuota,Yes- affordable,60141,No,7,23.00,23.00
+8/27/2023,Allan Mutuota,No- low priority,112018,No,3,37.00,37.00
+7/22/2023,Allan Mutuota,No-financial constraints,53224,No,6,38.00,38.00
+9/13/2023,Greyson Ochanda,Yes- affordable,114694,No,6,27.00,27.00
+8/10/2023,Rose Kanyiri,Yes- affordable,84245,No,1,25.00,25.00
+7/25/2023,Greyson Ochanda,Yes- affordable,90157,No,1,43.00,43.00
+6/30/2023,Allan Mutuota,No- low priority,17311,No,5,44.00,44.00
+6/26/2023,Rose Kanyiri,Yes- affordable,76544,No,4,31.00,31.00
+9/3/2023,Allan Mutuota,No- low priority,122531,No,4,34.00,34.00
+6/11/2023,Allan Mutuota,Yes- affordable,83525,No,4,31.00,31.00
+8/30/2023,Lutta Mboya,Yes- affordable,106358,No,3,23.00,23.00
+9/12/2023,Lutta Mboya,Yes- affordable,98765,No,3,44.00,44.00
+8/27/2023,Allan Mutuota,Yes- affordable,114468,Yes,6,29.00,45.00
+9/7/2023,Allan Mutuota,No- low priority,131502,No,1,23.00,23.00
+6/8/2023,Rose Kanyiri,No- low priority,93697,No,4,32.00,32.00
+8/11/2023,Allan Mutuota,No- low priority,113203,No,3,41.00,41.00
+6/8/2023,Rose Kanyiri,No- low priority,104451,No,1,37.00,37.00
+7/26/2023,Allan Mutuota,Not reachable,45034,No,5,35.00,35.00
+7/16/2023,Allan Mutuota,Not reachable,119241,No,3,34.00,34.00
+9/21/2023,Lutta Mboya,Yes- affordable,76044,No,5,35.00,35.00
+8/13/2023,Rose Kanyiri,No- low priority,90831,No,6,33.00,33.00
+9/2/2023,Lutta Mboya,Yes- affordable,125930,Yes,1,24.00,48.00
+7/6/2023,Rose Kanyiri,Yes- affordable,73857,No,7,38.00,38.00
+9/6/2023,Allan Mutuota,Yes- affordable,114849,No,6,49.00,49.00
+8/25/2023,Allan Mutuota,Yes- affordable,105998,Yes,7,37.00,40.00
+6/14/2023,Rose Kanyiri,Not reachable,99858,No,7,23.00,23.00
+8/11/2023,Allan Mutuota,No- low priority,84180,No,3,32.00,32.00
+8/11/2023,Greyson Ochanda,No- low priority,82242,No,5,24.00,24.00
+6/21/2023,Rose Kanyiri,No-financial constraints,119805,No,3,44.00,44.00
+9/9/2023,Rose Kanyiri,No- low priority,68695,No,4,28.00,28.00
+7/21/2023,Rose Kanyiri,No- low priority,60874,No,3,44.00,44.00
+9/14/2023,Lutta Mboya,Yes- affordable,49261,No,7,24.00,24.00
+9/27/2023,Lutta Mboya,Yes- affordable,105483,No,5,41.00,41.00
+9/29/2023,Rose Kanyiri,No- low priority,48280,No,2,34.00,34.00
+7/12/2023,Allan Mutuota,Yes- affordable,80322,No,4,33.00,33.00
+9/8/2023,Greyson Ochanda,Yes- affordable,67945,No,4,28.00,28.00
+9/7/2023,Rose Kanyiri,Yes- affordable,28039,Yes,3,46.00,50.00
+8/26/2023,Lutta Mboya,Yes- affordable,41349,No,7,38.00,38.00
+8/23/2023,Greyson Ochanda,Not reachable,126624,No,1,46.00,46.00
+6/2/2023,Allan Mutuota,No- low priority,106883,No,2,45.00,45.00
+7/11/2023,Allan Mutuota,No- low priority,20287,No,5,22.00,22.00
+8/31/2023,Rose Kanyiri,No-financial constraints,114196,No,6,33.00,33.00
+8/13/2023,Rose Kanyiri,Yes- affordable,82028,No,2,48.00,48.00
+8/7/2023,Allan Mutuota,No- low priority,83015,No,6,50.00,50.00
+9/28/2023,Rose Kanyiri,No- low priority,45279,No,3,29.00,29.00
+8/14/2023,Rose Kanyiri,No- low priority,45254,No,1,46.00,46.00
+9/2/2023,Rose Kanyiri,No- low priority,23267,No,3,31.00,31.00
+8/2/2023,Rose Kanyiri,No- low priority,59428,No,7,50.00,50.00
+9/6/2023,Greyson Ochanda,Yes- affordable,95819,Yes,4,24.00,42.00
+9/22/2023,Lutta Mboya,Yes- affordable,24155,No,7,29.00,29.00
+8/25/2023,Lutta Mboya,Yes- affordable,115296,No,1,48.00,48.00
+8/28/2023,Lutta Mboya,Yes- affordable,35921,No,5,23.00,23.00
+6/6/2023,Rose Kanyiri,No-financial constraints,9935,No,3,46.00,46.00
+6/6/2023,Rose Kanyiri,No- low priority,81159,No,6,39.00,39.00
+9/29/2023,Allan Mutuota,No-financial constraints,91333,No,1,42.00,42.00
+7/26/2023,Allan Mutuota,No-financial constraints,61900,No,1,45.00,45.00
+9/7/2023,Lutta Mboya,Yes- affordable,38789,No,4,22.00,22.00
+9/5/2023,Allan Mutuota,Yes- affordable,50349,No,5,45.00,45.00
+9/22/2023,Lutta Mboya,No- low priority,38362,No,1,41.00,41.00
+9/9/2023,Allan Mutuota,Yes- affordable,92578,No,1,31.00,31.00
+6/14/2023,Greyson Ochanda,Yes- affordable,88772,No,7,22.00,22.00
+8/6/2023,Rose Kanyiri,No-financial constraints,99136,No,5,50.00,50.00
+9/5/2023,Greyson Ochanda,Yes- affordable,121776,No,5,49.00,49.00
+6/7/2023,Greyson Ochanda,No- low priority,82681,No,4,29.00,29.00
+6/27/2023,Rose Kanyiri,No- low priority,43788,No,3,30.00,30.00
+9/24/2023,Rose Kanyiri,No- low priority,104012,No,2,40.00,40.00
+8/24/2023,Rose Kanyiri,Yes- affordable,46863,Yes,3,42.00,40.00
+7/23/2023,Greyson Ochanda,Yes- affordable,74145,No,1,36.00,36.00
+9/5/2023,Greyson Ochanda,Yes- affordable,105746,Yes,5,39.00,48.00
+8/11/2023,Allan Mutuota,No- low priority,81938,No,4,26.00,26.00
+6/4/2023,Greyson Ochanda,No- low priority,75628,No,7,30.00,30.00
+7/9/2023,Rose Kanyiri,Yes- affordable,74200,No,3,33.00,33.00
+9/8/2023,Rose Kanyiri,Yes- affordable,32772,No,2,30.00,30.00
+8/30/2023,Lutta Mboya,Yes- affordable,23670,No,1,43.00,43.00
+9/6/2023,Rose Kanyiri,No-financial constraints,53428,No,2,28.00,28.00
+6/29/2023,Rose Kanyiri,Yes- affordable,88374,Yes,5,40.00,42.00
+6/12/2023,Greyson Ochanda,No-financial constraints,25105,No,4,24.00,24.00
+9/14/2023,Lutta Mboya,Yes- affordable,128909,No,4,46.00,46.00
+6/17/2023,Greyson Ochanda,No- low priority,30051,No,2,35.00,35.00
+6/7/2023,Allan Mutuota,Yes- affordable,75355,No,6,48.00,48.00
+7/29/2023,Allan Mutuota,No- low priority,98915,No,3,47.00,47.00
+7/15/2023,Allan Mutuota,No- low priority,79075,No,7,27.00,27.00
+8/31/2023,Lutta Mboya,Yes- affordable,30779,No,2,49.00,49.00
+8/24/2023,Allan Mutuota,No- low priority,47392,No,1,27.00,27.00
+8/24/2023,Rose Kanyiri,No-financial constraints,93370,No,3,34.00,34.00
+9/27/2023,Rose Kanyiri,Yes- affordable,56319,No,3,27.00,27.00
+7/25/2023,Rose Kanyiri,No-financial constraints,51586,No,7,25.00,25.00
+9/19/2023,Lutta Mboya,Yes- affordable,1241,No,1,46.00,46.00
+7/3/2023,Greyson Ochanda,No- low priority,125964,No,3,32.00,32.00
+9/14/2023,Rose Kanyiri,No-financial constraints,42835,No,1,31.00,31.00
+6/12/2023,Allan Mutuota,No- low priority,108833,No,7,43.00,43.00
+8/22/2023,Allan Mutuota,No- low priority,94660,No,2,22.00,22.00
+8/25/2023,Allan Mutuota,No- low priority,57027,No,3,50.00,50.00
+6/12/2023,Allan Mutuota,Not reachable,105474,No,2,36.00,36.00
+7/8/2023,Greyson Ochanda,Not reachable,133279,No,3,34.00,34.00
+7/20/2023,Rose Kanyiri,No- low priority,116498,No,6,40.00,40.00
+8/4/2023,Allan Mutuota,No- low priority,60670,No,7,33.00,33.00
+6/15/2023,Rose Kanyiri,No- low priority,126780,No,1,32.00,32.00
+7/3/2023,Greyson Ochanda,No- low priority,36186,No,3,44.00,44.00
+6/14/2023,Rose Kanyiri,Yes- affordable,83614,No,4,30.00,30.00
+7/22/2023,Greyson Ochanda,No- low priority,53882,No,3,44.00,44.00
+7/21/2023,Greyson Ochanda,No-financial constraints,127098,No,1,32.00,32.00
+8/4/2023,Allan Mutuota,No-financial constraints,111875,No,2,35.00,35.00
+6/23/2023,Greyson Ochanda,No-financial constraints,115250,No,3,30.00,30.00
+9/29/2023,Lutta Mboya,Yes- affordable,50492,No,7,46.00,46.00
+9/12/2023,Lutta Mboya,No- low priority,31733,No,5,26.00,26.00
+9/2/2023,Allan Mutuota,Yes- affordable,103615,No,2,40.00,40.00
+8/4/2023,Greyson Ochanda,Yes- affordable,80985,No,2,41.00,41.00
+6/1/2023,Rose Kanyiri,Not reachable,120584,No,3,45.00,45.00
+8/17/2023,Greyson Ochanda,Not reachable,44625,No,3,25.00,25.00
+8/25/2023,Allan Mutuota,No- low priority,92750,No,1,44.00,44.00
+7/28/2023,Greyson Ochanda,No- low priority,88699,No,4,36.00,36.00
+6/1/2023,Rose Kanyiri,No- low priority,124530,No,1,48.00,48.00
+7/12/2023,Allan Mutuota,No- low priority,125848,No,7,26.00,26.00
+9/21/2023,Allan Mutuota,No- low priority,96995,No,4,38.00,38.00
+9/24/2023,Lutta Mboya,Yes- affordable,109335,No,7,33.00,33.00
+6/16/2023,Allan Mutuota,No- low priority,78667,No,5,31.00,31.00
+6/29/2023,Allan Mutuota,No- low priority,84624,No,7,41.00,41.00
+6/21/2023,Rose Kanyiri,No-financial constraints,133208,No,6,41.00,41.00
+7/18/2023,Greyson Ochanda,Yes- affordable,89904,No,6,30.00,30.00
+8/25/2023,Greyson Ochanda,Yes- affordable,107051,Yes,2,35.00,47.00
+6/14/2023,Greyson Ochanda,No- low priority,120976,No,7,41.00,41.00
+8/26/2023,Allan Mutuota,No- service dissatisfaction,50548,No,1,27.00,27.00
+6/20/2023,Allan Mutuota,Not reachable,132639,No,5,30.00,30.00
+9/1/2023,Greyson Ochanda,Yes- affordable,93346,No,6,48.00,48.00
+9/30/2023,Lutta Mboya,Yes- affordable,46066,Yes,3,37.00,40.00
+8/2/2023,Allan Mutuota,Not reachable,93224,No,6,37.00,37.00
+9/22/2023,Lutta Mboya,Yes- affordable,113266,No,6,30.00,30.00
+8/5/2023,Allan Mutuota,No- low priority,50385,No,1,35.00,35.00
+9/20/2023,Lutta Mboya,Yes- affordable,99516,No,7,28.00,28.00
+9/9/2023,Rose Kanyiri,Yes- affordable,30774,No,3,35.00,35.00
+9/1/2023,Allan Mutuota,No-financial constraints,97929,No,3,46.00,46.00
+9/29/2023,Allan Mutuota,No- low priority,105880,No,5,31.00,31.00
+9/25/2023,Allan Mutuota,No- service dissatisfaction,29325,No,3,30.00,30.00
+7/23/2023,Rose Kanyiri,No-financial constraints,101099,No,1,47.00,47.00
+7/20/2023,Allan Mutuota,No- low priority,56536,No,3,50.00,50.00
+7/29/2023,Greyson Ochanda,No- low priority,104752,No,7,25.00,25.00
+7/26/2023,Rose Kanyiri,No-financial constraints,128965,No,7,31.00,31.00
+7/16/2023,Rose Kanyiri,No- low priority,83268,No,2,23.00,23.00
+9/30/2023,Greyson Ochanda,Yes- affordable,92003,No,1,37.00,37.00
+9/12/2023,Rose Kanyiri,No- service dissatisfaction,25624,No,5,32.00,32.00
+7/3/2023,Rose Kanyiri,No-financial constraints,94876,No,1,37.00,37.00
+9/29/2023,Rose Kanyiri,No- service dissatisfaction,16934,No,6,22.00,22.00
+9/11/2023,Greyson Ochanda,Yes- affordable,93899,No,2,43.00,43.00
+7/13/2023,Allan Mutuota,Yes- affordable,73825,No,1,23.00,23.00
+9/12/2023,Allan Mutuota,No- low priority,90179,No,4,43.00,43.00
+7/17/2023,Rose Kanyiri,No- low priority,124720,No,2,44.00,44.00
+9/11/2023,Rose Kanyiri,Yes- affordable,29822,Yes,7,33.00,48.00
+8/13/2023,Greyson Ochanda,Yes- affordable,88173,No,5,26.00,26.00
+6/23/2023,Rose Kanyiri,Yes- affordable,80845,No,2,31.00,31.00
+6/6/2023,Allan Mutuota,No- low priority,77189,No,1,25.00,25.00
+8/30/2023,Lutta Mboya,Yes- affordable,101865,No,4,31.00,31.00
+9/15/2023,Rose Kanyiri,No-financial constraints,64330,No,1,41.00,41.00
+8/14/2023,Rose Kanyiri,No-financial constraints,91132,No,4,27.00,27.00
+7/28/2023,Rose Kanyiri,Not reachable,60127,No,2,50.00,50.00
+6/18/2023,Allan Mutuota,No- low priority,122985,No,6,34.00,34.00
+8/2/2023,Rose Kanyiri,No-financial constraints,100965,No,1,25.00,25.00
+7/14/2023,Rose Kanyiri,Yes- affordable,86275,No,4,26.00,26.00
+7/24/2023,Greyson Ochanda,No- low priority,60922,No,7,49.00,49.00
+7/16/2023,Allan Mutuota,No- low priority,81204,No,2,27.00,27.00
+6/14/2023,Greyson Ochanda,Yes- affordable,90253,No,4,40.00,40.00
+8/28/2023,Lutta Mboya,Yes- affordable,25914,Yes,3,45.00,56.00
+6/3/2023,Greyson Ochanda,No-financial constraints,102843,No,1,41.00,41.00
+6/2/2023,Allan Mutuota,No- low priority,110931,No,5,33.00,33.00
+9/21/2023,Rose Kanyiri,Yes- affordable,22416,No,2,27.00,27.00
+8/20/2023,Rose Kanyiri,Yes- affordable,108498,No,2,22.00,22.00
+9/24/2023,Lutta Mboya,Yes- affordable,109335,Yes,2,44.00,53.00
+9/20/2023,Greyson Ochanda,Yes- affordable,73628,Yes,2,30.00,43.00
+9/20/2023,Lutta Mboya,Yes- affordable,129185,No,6,44.00,44.00
+8/17/2023,Allan Mutuota,No- low priority,56508,No,1,36.00,36.00
+9/26/2023,Rose Kanyiri,No- low priority,93343,No,7,32.00,32.00
+9/19/2023,Greyson Ochanda,No- low priority,108547,No,7,49.00,49.00
+9/11/2023,Greyson Ochanda,Yes- affordable,124973,No,7,38.00,38.00
+9/21/2023,Allan Mutuota,Yes- affordable,28041,No,5,48.00,48.00
+9/30/2023,Lutta Mboya,Yes- affordable,27971,No,7,42.00,42.00
+6/26/2023,Allan Mutuota,No- low priority,87502,No,3,36.00,36.00
+8/7/2023,Greyson Ochanda,Not reachable,113252,No,6,39.00,39.00
+6/18/2023,Rose Kanyiri,No- low priority,33715,No,7,24.00,24.00
+9/30/2023,Lutta Mboya,Yes- affordable,92105,No,3,25.00,25.00
+9/20/2023,Greyson Ochanda,Yes- affordable,56873,Yes,1,48.00,51.00
+9/28/2023,Greyson Ochanda,No- service dissatisfaction,119199,No,1,37.00,37.00
+9/7/2023,Lutta Mboya,Yes- affordable,130158,No,4,37.00,37.00
+7/25/2023,Allan Mutuota,No- low priority,61543,No,2,44.00,44.00
+9/12/2023,Lutta Mboya,Yes- affordable,21431,Yes,7,24.00,53.00
+6/29/2023,Greyson Ochanda,Yes- affordable,75810,No,1,42.00,42.00
+6/27/2023,Greyson Ochanda,No- low priority,96562,No,3,33.00,33.00
+8/22/2023,Allan Mutuota,No- low priority,56167,No,2,50.00,50.00
+8/25/2023,Allan Mutuota,Yes- affordable,105998,No,7,24.00,24.00
+6/16/2023,Rose Kanyiri,Yes- affordable,73797,No,3,25.00,25.00
+8/29/2023,Greyson Ochanda,No-financial constraints,110993,No,7,35.00,35.00
+9/14/2023,Rose Kanyiri,No-financial constraints,64894,No,7,23.00,23.00
+7/31/2023,Allan Mutuota,No- low priority,132909,No,1,48.00,48.00
+9/10/2023,Lutta Mboya,Yes- affordable,42607,No,5,28.00,28.00
+9/29/2023,Allan Mutuota,Yes- affordable,109306,No,1,48.00,48.00
+7/13/2023,Greyson Ochanda,No- low priority,108603,No,2,49.00,49.00
+8/30/2023,Lutta Mboya,Yes- affordable,30550,No,7,42.00,42.00
+8/15/2023,Rose Kanyiri,No- low priority,82810,No,1,34.00,34.00
+6/30/2023,Greyson Ochanda,No- low priority,51392,No,5,24.00,24.00
+9/24/2023,Rose Kanyiri,No-financial constraints,131685,No,1,40.00,40.00
+9/1/2023,Allan Mutuota,No- low priority,58484,No,1,39.00,39.00
+8/8/2023,Greyson Ochanda,No- low priority,55996,No,6,22.00,22.00
+6/23/2023,Allan Mutuota,No- low priority,61467,No,4,27.00,27.00
+9/10/2023,Rose Kanyiri,No-financial constraints,106074,No,5,43.00,43.00
+9/17/2023,Lutta Mboya,Yes- affordable,132191,Yes,3,38.00,49.00
+7/20/2023,Allan Mutuota,Not reachable,55505,No,1,23.00,23.00
+7/3/2023,Greyson Ochanda,No- low priority,89284,No,3,27.00,27.00
+6/15/2023,Allan Mutuota,Yes- affordable,78485,No,5,31.00,31.00
+9/14/2023,Lutta Mboya,Yes- affordable,97902,Yes,2,36.00,43.00
+9/23/2023,Lutta Mboya,Yes- affordable,105590,No,3,29.00,29.00
+7/19/2023,Rose Kanyiri,Yes- affordable,90360,No,6,36.00,36.00
+9/20/2023,Allan Mutuota,Yes- affordable,29249,No,2,23.00,23.00
+8/2/2023,Rose Kanyiri,No- low priority,88595,No,5,47.00,47.00
+8/20/2023,Rose Kanyiri,Not reachable,45260,No,3,28.00,28.00
+6/5/2023,Rose Kanyiri,No-financial constraints,20129,No,2,35.00,35.00
+8/29/2023,Allan Mutuota,No- low priority,28204,No,2,31.00,31.00
+9/7/2023,Allan Mutuota,Yes- affordable,130999,No,2,24.00,24.00
+6/5/2023,Rose Kanyiri,No- low priority,111729,No,1,44.00,44.00
+7/15/2023,Allan Mutuota,No- low priority,52623,No,3,46.00,46.00
+6/17/2023,Allan Mutuota,No- low priority,129759,No,6,37.00,37.00
+6/13/2023,Rose Kanyiri,No- low priority,63186,No,6,29.00,29.00
+6/7/2023,Allan Mutuota,No- low priority,131183,No,3,22.00,22.00
+8/15/2023,Allan Mutuota,Yes- affordable,89515,No,6,23.00,23.00
+7/23/2023,Allan Mutuota,No-financial constraints,36854,No,3,32.00,32.00
+9/17/2023,Greyson Ochanda,Not reachable,28769,No,1,41.00,41.00
+9/21/2023,Lutta Mboya,Yes- affordable,6286,No,3,32.00,32.00
+9/9/2023,Lutta Mboya,Yes- affordable,52838,No,6,49.00,49.00
+9/29/2023,Allan Mutuota,Yes- affordable,16033,Yes,2,31.00,43.00
+9/28/2023,Allan Mutuota,No-financial constraints,24357,No,2,24.00,24.00
+8/16/2023,Greyson Ochanda,No-financial constraints,30772,No,1,40.00,40.00
+9/21/2023,Lutta Mboya,Yes- affordable,93337,No,1,23.00,23.00
+9/5/2023,Allan Mutuota,No-financial constraints,64498,No,1,43.00,43.00
+9/20/2023,Allan Mutuota,No- low priority,103822,No,2,48.00,48.00
+9/7/2023,Lutta Mboya,Yes- affordable,117178,No,7,38.00,38.00
+8/7/2023,Allan Mutuota,Yes- affordable,85100,No,4,28.00,28.00
+7/8/2023,Rose Kanyiri,No- low priority,91244,No,2,43.00,43.00
+8/13/2023,Rose Kanyiri,Yes- affordable,82028,Yes,1,24.00,51.00
+9/13/2023,Rose Kanyiri,Yes- affordable,33369,No,3,38.00,38.00
+8/25/2023,Allan Mutuota,Yes- affordable,55990,No,2,34.00,34.00
+9/3/2023,Lutta Mboya,Yes- affordable,23578,Yes,4,29.00,46.00
+7/17/2023,Rose Kanyiri,No-financial constraints,103816,No,3,38.00,38.00
+9/18/2023,Lutta Mboya,Yes- affordable,60819,No,7,35.00,35.00
+8/14/2023,Rose Kanyiri,No-financial constraints,107376,No,7,31.00,31.00
+7/5/2023,Rose Kanyiri,Not reachable,109400,No,5,26.00,26.00
+8/29/2023,Allan Mutuota,No-financial constraints,112534,No,3,33.00,33.00
+9/23/2023,Lutta Mboya,No-financial constraints,55954,No,2,39.00,39.00
+9/24/2023,Lutta Mboya,No- service dissatisfaction,47747,No,6,45.00,45.00
+9/15/2023,Lutta Mboya,Yes- affordable,78418,No,4,41.00,41.00
+6/28/2023,Allan Mutuota,Yes- affordable,76499,No,6,46.00,46.00
+9/10/2023,Greyson Ochanda,Yes- affordable,121438,No,7,35.00,35.00
+8/12/2023,Greyson Ochanda,No- low priority,133490,No,7,44.00,44.00
+7/14/2023,Greyson Ochanda,No- low priority,55584,No,1,23.00,23.00
+9/22/2023,Allan Mutuota,No- service dissatisfaction,62405,No,5,47.00,47.00
+7/5/2023,Allan Mutuota,No- low priority,85738,No,2,29.00,29.00
+8/26/2023,Lutta Mboya,Yes- affordable,131791,No,4,48.00,48.00
+8/10/2023,Greyson Ochanda,Yes- affordable,76617,Yes,5,31.00,44.00
+9/19/2023,Greyson Ochanda,Yes- affordable,58835,No,4,34.00,34.00
+8/25/2023,Allan Mutuota,No-financial constraints,113163,No,4,30.00,30.00
+9/16/2023,Lutta Mboya,Yes- affordable,78662,No,6,28.00,28.00
+8/30/2023,Lutta Mboya,No- low priority,98825,No,2,35.00,35.00
+8/30/2023,Allan Mutuota,No-financial constraints,108656,No,5,35.00,35.00
+8/15/2023,Rose Kanyiri,No- low priority,106071,No,3,46.00,46.00
+6/26/2023,Rose Kanyiri,No-financial constraints,119322,No,5,44.00,44.00
+8/30/2023,Lutta Mboya,Yes- affordable,57366,No,3,32.00,32.00
+9/22/2023,Allan Mutuota,No-financial constraints,131609,No,6,34.00,34.00
+9/27/2023,Greyson Ochanda,No- low priority,66843,No,5,38.00,38.00
+9/24/2023,Rose Kanyiri,No-financial constraints,100989,No,1,36.00,36.00
+8/18/2023,Rose Kanyiri,No- low priority,105267,No,1,26.00,26.00
+8/27/2023,Greyson Ochanda,Yes- affordable,49165,No,3,47.00,47.00
+8/25/2023,Allan Mutuota,Yes- affordable,115570,No,3,48.00,48.00
+7/1/2023,Rose Kanyiri,No- low priority,89699,No,1,22.00,22.00
+8/10/2023,Allan Mutuota,No- low priority,76540,No,4,36.00,36.00
+9/7/2023,Lutta Mboya,Yes- affordable,112891,Yes,7,31.00,44.00
+9/11/2023,Allan Mutuota,Yes- affordable,114265,No,5,45.00,45.00
+7/4/2023,Rose Kanyiri,No-financial constraints,56201,No,1,25.00,25.00
+8/5/2023,Allan Mutuota,No-financial constraints,59424,No,3,39.00,39.00
+7/29/2023,Allan Mutuota,No- low priority,130199,No,6,30.00,30.00
+9/11/2023,Lutta Mboya,No-financial constraints,102405,No,7,27.00,27.00
+6/18/2023,Allan Mutuota,No-financial constraints,99831,No,1,47.00,47.00
+9/2/2023,Greyson Ochanda,No- service dissatisfaction,115391,No,1,36.00,36.00
+7/15/2023,Rose Kanyiri,Yes- affordable,83522,No,1,32.00,32.00
+9/13/2023,Lutta Mboya,Yes- affordable,106747,No,6,30.00,30.00
+9/15/2023,Lutta Mboya,Yes- affordable,112352,No,3,39.00,39.00
+6/27/2023,Allan Mutuota,No-financial constraints,41986,No,2,43.00,43.00
+9/17/2023,Lutta Mboya,Yes- affordable,132191,No,6,50.00,50.00
+6/7/2023,Rose Kanyiri,Not reachable,97567,No,6,38.00,38.00
+6/3/2023,Rose Kanyiri,No- low priority,134007,No,3,38.00,38.00
+7/16/2023,Allan Mutuota,No- low priority,62158,No,7,47.00,47.00
+9/28/2023,Allan Mutuota,Yes- affordable,120433,No,4,26.00,26.00
+9/22/2023,Greyson Ochanda,Yes- affordable,104086,No,2,49.00,49.00
+6/15/2023,Allan Mutuota,Yes- affordable,33192,No,7,46.00,46.00
+9/14/2023,Allan Mutuota,Yes- affordable,62949,No,4,25.00,25.00
+8/31/2023,Greyson Ochanda,No- low priority,109675,No,7,25.00,25.00
+9/26/2023,Allan Mutuota,Not reachable,97558,No,5,36.00,36.00
+9/7/2023,Lutta Mboya,Yes- affordable,63415,No,6,30.00,30.00
+9/4/2023,Allan Mutuota,No- service dissatisfaction,93505,No,6,31.00,31.00
+8/7/2023,Greyson Ochanda,No-financial constraints,47857,No,3,40.00,40.00
+9/2/2023,Lutta Mboya,Yes- affordable,125930,No,2,44.00,44.00
+6/24/2023,Rose Kanyiri,Yes- affordable,79342,No,1,22.00,22.00
+8/25/2023,Lutta Mboya,Yes- affordable,131986,No,6,31.00,31.00
+9/2/2023,Lutta Mboya,Yes- affordable,88342,No,4,26.00,26.00
+6/19/2023,Greyson Ochanda,No-financial constraints,39487,No,2,47.00,47.00
+7/21/2023,Allan Mutuota,No-financial constraints,119785,No,7,35.00,35.00
+9/6/2023,Lutta Mboya,Yes- affordable,31985,No,5,47.00,47.00
+9/8/2023,Lutta Mboya,Yes- affordable,107475,No,5,49.00,49.00
+9/16/2023,Lutta Mboya,Yes- affordable,120003,No,6,24.00,24.00
+6/6/2023,Allan Mutuota,No- low priority,32548,No,5,33.00,33.00
+8/27/2023,Lutta Mboya,Not reachable,76873,No,5,39.00,39.00
+8/24/2023,Allan Mutuota,No-financial constraints,55727,No,5,31.00,31.00
+9/18/2023,Rose Kanyiri,Yes- affordable,20966,No,1,43.00,43.00
+6/16/2023,Allan Mutuota,No- low priority,58377,No,3,35.00,35.00
+9/25/2023,Allan Mutuota,No- low priority,44856,No,5,34.00,34.00
+8/24/2023,Rose Kanyiri,Not reachable,126556,No,6,47.00,47.00
+7/12/2023,Allan Mutuota,No- low priority,122044,No,4,42.00,42.00
+7/11/2023,Allan Mutuota,Yes- affordable,89456,No,4,38.00,38.00
+6/29/2023,Rose Kanyiri,No-financial constraints,64782,No,1,31.00,31.00
+8/31/2023,Greyson Ochanda,Yes- affordable,98698,No,4,37.00,37.00
+6/23/2023,Rose Kanyiri,Yes- affordable,78881,No,5,39.00,39.00
+9/2/2023,Greyson Ochanda,No-financial constraints,97944,No,5,35.00,35.00
+8/4/2023,Allan Mutuota,Yes- affordable,21674,No,4,30.00,30.00
+8/17/2023,Rose Kanyiri,No- low priority,59050,No,1,33.00,33.00
+8/26/2023,Greyson Ochanda,Yes- affordable,58033,No,3,23.00,23.00
+6/7/2023,Rose Kanyiri,No-financial constraints,86754,No,7,35.00,35.00
+8/26/2023,Lutta Mboya,Yes- affordable,117426,No,1,42.00,42.00
+8/26/2023,Lutta Mboya,Yes- affordable,96479,No,3,27.00,27.00
+8/28/2023,Rose Kanyiri,Yes- affordable,27509,No,6,35.00,35.00
+9/17/2023,Allan Mutuota,Yes- affordable,121377,Yes,7,41.00,56.00
+9/7/2023,Lutta Mboya,Yes- affordable,38789,Yes,5,38.00,45.00
+9/25/2023,Allan Mutuota,Yes- affordable,118307,No,5,27.00,27.00
+7/18/2023,Greyson Ochanda,No-financial constraints,111332,No,6,27.00,27.00
+9/15/2023,Rose Kanyiri,No- service dissatisfaction,105235,No,4,22.00,22.00
+7/7/2023,Greyson Ochanda,No- low priority,103977,No,6,46.00,46.00
+9/20/2023,Rose Kanyiri,No-financial constraints,59556,No,4,49.00,49.00
+8/7/2023,Rose Kanyiri,No- low priority,75683,No,2,25.00,25.00
+7/26/2023,Rose Kanyiri,No- low priority,101571,No,5,45.00,45.00
+6/20/2023,Rose Kanyiri,Yes- affordable,74007,No,6,35.00,35.00
+7/24/2023,Rose Kanyiri,No- low priority,106459,No,2,48.00,48.00
+9/27/2023,Lutta Mboya,Yes- affordable,93979,No,1,28.00,28.00
+6/4/2023,Allan Mutuota,No- low priority,100067,No,7,37.00,37.00
+7/2/2023,Rose Kanyiri,Not reachable,120391,No,3,24.00,24.00
+9/30/2023,Lutta Mboya,Yes- affordable,94484,No,1,31.00,31.00
+8/22/2023,Rose Kanyiri,No- low priority,92730,No,5,28.00,28.00
+9/22/2023,Greyson Ochanda,No- service dissatisfaction,104788,No,6,48.00,48.00
+6/23/2023,Rose Kanyiri,Yes- affordable,78881,Yes,5,48.00,41.00
+6/9/2023,Greyson Ochanda,No- low priority,113499,No,2,36.00,36.00
+8/9/2023,Rose Kanyiri,No-financial constraints,104267,No,3,40.00,40.00
+7/17/2023,Rose Kanyiri,No- low priority,110180,No,5,41.00,41.00
+6/16/2023,Rose Kanyiri,No- low priority,76533,No,1,22.00,22.00
+8/25/2023,Greyson Ochanda,Not reachable,49458,No,1,50.00,50.00
+8/6/2023,Greyson Ochanda,Yes- affordable,84127,No,3,33.00,33.00
+9/9/2023,Greyson Ochanda,Yes- affordable,112127,No,6,39.00,39.00
+6/24/2023,Rose Kanyiri,No- low priority,86062,No,5,23.00,23.00
+7/24/2023,Greyson Ochanda,Yes- affordable,90328,No,3,37.00,37.00
+7/31/2023,Rose Kanyiri,No- low priority,112281,No,7,26.00,26.00
+9/2/2023,Greyson Ochanda,Yes- affordable,132816,No,2,23.00,23.00
+8/26/2023,Rose Kanyiri,Yes- affordable,44969,No,7,22.00,22.00
+8/25/2023,Allan Mutuota,No- low priority,30901,No,6,23.00,23.00
+8/26/2023,Allan Mutuota,No-financial constraints,124257,No,5,24.00,24.00
+9/15/2023,Greyson Ochanda,No- service dissatisfaction,95701,No,5,40.00,40.00
+9/10/2023,Greyson Ochanda,Not reachable,129664,No,6,38.00,38.00
+9/2/2023,Lutta Mboya,No- service dissatisfaction,112923,No,5,26.00,26.00
+9/8/2023,Lutta Mboya,Yes- affordable,99865,No,7,41.00,41.00
+8/24/2023,Rose Kanyiri,Yes- affordable,46863,No,3,24.00,24.00
+6/27/2023,Allan Mutuota,Yes- affordable,73838,No,3,26.00,26.00
+9/23/2023,Greyson Ochanda,Yes- affordable,105906,No,3,38.00,38.00
+7/29/2023,Greyson Ochanda,Not reachable,24779,No,3,33.00,33.00
+9/9/2023,Greyson Ochanda,No- service dissatisfaction,96609,No,2,23.00,23.00
+6/26/2023,Greyson Ochanda,Not reachable,99175,No,3,27.00,27.00
+7/15/2023,Allan Mutuota,No- low priority,54636,No,1,39.00,39.00
+9/27/2023,Lutta Mboya,Yes- affordable,60731,No,3,22.00,22.00
+6/29/2023,Greyson Ochanda,No- low priority,108911,No,2,27.00,27.00
+9/4/2023,Rose Kanyiri,No- low priority,123574,No,4,31.00,31.00
+6/22/2023,Greyson Ochanda,No-financial constraints,116875,No,4,32.00,32.00
+7/3/2023,Rose Kanyiri,No-financial constraints,71377,No,7,25.00,25.00
+6/22/2023,Greyson Ochanda,Not reachable,98425,No,1,32.00,32.00
+9/23/2023,Lutta Mboya,Yes- affordable,58006,No,5,25.00,25.00
+8/5/2023,Greyson Ochanda,Yes- affordable,74202,No,7,29.00,29.00
+8/27/2023,Allan Mutuota,No- low priority,95817,No,2,46.00,46.00
+8/29/2023,Allan Mutuota,No-financial constraints,80294,No,5,29.00,29.00
+9/27/2023,Greyson Ochanda,Yes- affordable,50331,No,6,25.00,25.00
+9/8/2023,Lutta Mboya,Yes- affordable,110042,No,5,49.00,49.00
+7/8/2023,Allan Mutuota,Yes- affordable,83125,Yes,4,23.00,45.00
+8/16/2023,Rose Kanyiri,No- low priority,132473,No,5,47.00,47.00
+8/31/2023,Greyson Ochanda,No- service dissatisfaction,113012,No,7,36.00,36.00
+7/25/2023,Greyson Ochanda,No- low priority,113873,No,5,22.00,22.00
+9/23/2023,Lutta Mboya,Yes- affordable,47567,Yes,5,40.00,48.00
+8/6/2023,Allan Mutuota,Yes- affordable,82853,No,7,47.00,47.00
+7/24/2023,Greyson Ochanda,Not reachable,61455,No,4,48.00,48.00
+8/3/2023,Greyson Ochanda,No-financial constraints,114613,No,1,32.00,32.00
+9/10/2023,Allan Mutuota,No-financial constraints,134361,No,1,36.00,36.00
+7/30/2023,Greyson Ochanda,Not reachable,117743,No,7,26.00,26.00
+6/11/2023,Allan Mutuota,No-financial constraints,4039,No,7,32.00,32.00
+8/29/2023,Lutta Mboya,Yes- affordable,103041,No,1,23.00,23.00
+9/20/2023,Greyson Ochanda,Yes- affordable,73628,No,1,48.00,48.00
+9/7/2023,Rose Kanyiri,No- low priority,127255,No,4,36.00,36.00
+7/27/2023,Rose Kanyiri,No- low priority,63775,No,4,41.00,41.00
+7/26/2023,Greyson Ochanda,Not reachable,99405,No,4,43.00,43.00
+8/15/2023,Allan Mutuota,Yes- affordable,80075,No,3,33.00,33.00
+8/27/2023,Greyson Ochanda,No- service dissatisfaction,118054,No,7,24.00,24.00
+7/22/2023,Greyson Ochanda,No- low priority,64446,No,4,35.00,35.00
+9/3/2023,Lutta Mboya,Yes- affordable,115222,No,4,49.00,49.00
+9/13/2023,Lutta Mboya,Not reachable,116903,No,2,45.00,45.00
+9/23/2023,Lutta Mboya,Yes- affordable,47567,No,3,42.00,42.00
+9/10/2023,Lutta Mboya,Yes- affordable,120826,No,2,45.00,45.00
+9/18/2023,Greyson Ochanda,Yes- affordable,131619,No,3,23.00,23.00
+9/27/2023,Lutta Mboya,Yes- affordable,131973,No,4,38.00,38.00
+9/18/2023,Allan Mutuota,Yes- affordable,107309,No,2,49.00,49.00
+9/17/2023,Lutta Mboya,No- low priority,122859,No,2,23.00,23.00
+6/11/2023,Allan Mutuota,No- low priority,100915,No,3,34.00,34.00
+7/10/2023,Greyson Ochanda,Yes- affordable,87042,No,6,35.00,35.00
+6/16/2023,Rose Kanyiri,No-financial constraints,46721,No,5,26.00,26.00
+9/5/2023,Greyson Ochanda,Yes- affordable,105385,No,6,33.00,33.00
+8/3/2023,Allan Mutuota,Not reachable,51021,No,6,28.00,28.00
+7/24/2023,Rose Kanyiri,No-financial constraints,128642,No,1,31.00,31.00
+7/6/2023,Rose Kanyiri,No-financial constraints,43912,No,6,40.00,40.00
+9/18/2023,Greyson Ochanda,No-financial constraints,110186,No,2,43.00,43.00
+9/12/2023,Rose Kanyiri,No- low priority,134028,No,7,38.00,38.00
+6/1/2023,Allan Mutuota,Not reachable,95989,No,1,48.00,48.00
+9/27/2023,Lutta Mboya,Yes- affordable,95106,No,2,47.00,47.00
+6/4/2023,Rose Kanyiri,No- low priority,61646,No,4,26.00,26.00
+8/28/2023,Lutta Mboya,Yes- affordable,25914,No,3,34.00,34.00
+9/22/2023,Greyson Ochanda,Yes- affordable,103494,No,5,34.00,34.00
+7/6/2023,Greyson Ochanda,Yes- affordable,86108,No,2,26.00,26.00
+8/9/2023,Allan Mutuota,No- low priority,86112,No,3,43.00,43.00
+7/11/2023,Greyson Ochanda,Yes- affordable,84417,No,6,32.00,32.00
+9/5/2023,Allan Mutuota,Yes- affordable,131885,No,4,32.00,32.00
+8/28/2023,Lutta Mboya,Yes- affordable,117261,No,3,35.00,35.00
+8/17/2023,Greyson Ochanda,Yes- affordable,86015,No,4,30.00,30.00
+9/29/2023,Lutta Mboya,Yes- affordable,6710,No,4,29.00,29.00
+9/16/2023,Rose Kanyiri,Not reachable,64149,No,1,48.00,48.00
+8/6/2023,Rose Kanyiri,Yes- affordable,80171,No,7,45.00,45.00
+9/27/2023,Lutta Mboya,Yes- affordable,114041,No,1,37.00,37.00
+8/7/2023,Greyson Ochanda,No-financial constraints,124609,No,1,49.00,49.00
+8/12/2023,Greyson Ochanda,Yes- affordable,83627,No,7,40.00,40.00
+9/17/2023,Allan Mutuota,Yes- affordable,107469,No,3,22.00,22.00
+9/28/2023,Allan Mutuota,No-financial constraints,123243,No,2,34.00,34.00
+9/9/2023,Allan Mutuota,No- service dissatisfaction,38350,No,5,31.00,31.00
+9/9/2023,Greyson Ochanda,No- low priority,130467,No,1,29.00,29.00
+6/29/2023,Greyson Ochanda,Yes- affordable,89945,No,6,28.00,28.00
+8/11/2023,Greyson Ochanda,Yes- affordable,87754,No,2,24.00,24.00
+7/25/2023,Greyson Ochanda,No- low priority,115873,No,5,40.00,40.00
+8/22/2023,Allan Mutuota,No-financial constraints,40089,No,4,22.00,22.00
+7/20/2023,Greyson Ochanda,No-financial constraints,102411,No,3,48.00,48.00
+9/11/2023,Allan Mutuota,No- service dissatisfaction,25293,No,6,23.00,23.00
+6/9/2023,Greyson Ochanda,Yes- affordable,77446,No,1,31.00,31.00
+8/11/2023,Rose Kanyiri,Yes- affordable,89568,No,1,27.00,27.00
+9/29/2023,Rose Kanyiri,Yes- affordable,41869,No,1,36.00,36.00
+6/11/2023,Allan Mutuota,No-financial constraints,43370,No,3,25.00,25.00
+9/26/2023,Rose Kanyiri,No- low priority,73933,No,6,40.00,40.00
+6/8/2023,Rose Kanyiri,Yes- affordable,81695,No,3,22.00,22.00
+8/18/2023,Greyson Ochanda,Not reachable,130514,No,2,22.00,22.00
+7/21/2023,Allan Mutuota,No- low priority,75426,No,7,48.00,48.00
+6/4/2023,Allan Mutuota,No- low priority,131004,No,1,43.00,43.00
+9/3/2023,Greyson Ochanda,Yes- affordable,57067,No,7,38.00,38.00
+6/19/2023,Greyson Ochanda,No- low priority,115612,No,6,44.00,44.00
+9/3/2023,Allan Mutuota,Yes- affordable,53159,No,2,43.00,43.00
+6/9/2023,Allan Mutuota,No-financial constraints,54575,No,5,38.00,38.00
+7/18/2023,Allan Mutuota,No- low priority,117341,No,5,34.00,34.00
+9/26/2023,Allan Mutuota,No- low priority,133002,No,4,37.00,37.00
+8/21/2023,Rose Kanyiri,Yes- affordable,86266,No,3,37.00,37.00
+9/10/2023,Lutta Mboya,Yes- affordable,47715,Yes,4,38.00,48.00
+9/8/2023,Allan Mutuota,Not reachable,50822,No,1,46.00,46.00
+8/18/2023,Greyson Ochanda,No- low priority,78983,No,4,39.00,39.00
+9/11/2023,Allan Mutuota,Yes- affordable,99137,No,1,30.00,30.00
+9/9/2023,Greyson Ochanda,Yes- affordable,95164,No,6,49.00,49.00
+8/13/2023,Rose Kanyiri,Not reachable,105195,No,5,31.00,31.00
+9/23/2023,Lutta Mboya,No-financial constraints,106967,No,3,40.00,40.00
+6/15/2023,Greyson Ochanda,No- low priority,78528,No,1,30.00,30.00
+7/15/2023,Allan Mutuota,No- low priority,109235,No,7,24.00,24.00
+7/1/2023,Greyson Ochanda,Yes- affordable,81422,No,1,35.00,35.00
+9/18/2023,Rose Kanyiri,No- service dissatisfaction,108188,No,4,23.00,23.00
+9/24/2023,Lutta Mboya,Yes- affordable,110548,No,7,34.00,34.00
+9/10/2023,Rose Kanyiri,Yes- affordable,5109,No,5,33.00,33.00
+9/20/2023,Allan Mutuota,No- service dissatisfaction,111542,No,5,25.00,25.00
+9/14/2023,Lutta Mboya,No- low priority,117016,No,5,36.00,36.00
+9/19/2023,Lutta Mboya,Yes- affordable,34695,No,7,42.00,42.00
+9/29/2023,Lutta Mboya,Yes- affordable,98257,No,2,28.00,28.00
+7/27/2023,Allan Mutuota,No- low priority,87953,No,2,40.00,40.00
+7/10/2023,Greyson Ochanda,No- low priority,121868,No,1,22.00,22.00
+7/13/2023,Allan Mutuota,No- low priority,82353,No,2,42.00,42.00
+6/17/2023,Allan Mutuota,Yes- affordable,81449,No,1,41.00,41.00
+6/2/2023,Allan Mutuota,No-financial constraints,79856,No,5,41.00,41.00
+8/29/2023,Allan Mutuota,No- low priority,95319,No,4,47.00,47.00
+9/29/2023,Lutta Mboya,No-financial constraints,118228,No,3,42.00,42.00
+7/31/2023,Allan Mutuota,No- low priority,21887,No,5,37.00,37.00
+7/19/2023,Rose Kanyiri,No-financial constraints,108484,No,3,22.00,22.00
+8/18/2023,Rose Kanyiri,Yes- affordable,100943,No,7,29.00,29.00
+8/26/2023,Lutta Mboya,Yes- affordable,94349,No,2,46.00,46.00
+7/19/2023,Rose Kanyiri,Not reachable,107291,No,4,25.00,25.00
+9/11/2023,Lutta Mboya,Yes- affordable,44508,No,5,36.00,36.00
+6/28/2023,Rose Kanyiri,No-financial constraints,27746,No,7,46.00,46.00
+6/14/2023,Rose Kanyiri,No- low priority,121067,No,7,44.00,44.00
+9/21/2023,Allan Mutuota,No-financial constraints,59912,No,5,38.00,38.00
+7/27/2023,Greyson Ochanda,No- low priority,78066,No,2,46.00,46.00
+9/6/2023,Lutta Mboya,Yes- affordable,40195,No,7,50.00,50.00
+8/1/2023,Allan Mutuota,Yes- affordable,77499,No,6,31.00,31.00
+6/10/2023,Allan Mutuota,No-financial constraints,104320,No,5,22.00,22.00
+7/24/2023,Greyson Ochanda,Not reachable,101430,No,1,43.00,43.00
+6/26/2023,Rose Kanyiri,Yes- affordable,83001,No,2,23.00,23.00
+6/7/2023,Allan Mutuota,No- low priority,44428,No,3,49.00,49.00
+8/25/2023,Rose Kanyiri,Yes- affordable,43535,No,5,35.00,35.00
+7/28/2023,Rose Kanyiri,No- low priority,80276,No,2,26.00,26.00
+9/11/2023,Lutta Mboya,No- service dissatisfaction,125703,No,4,40.00,40.00
+9/11/2023,Allan Mutuota,Yes- affordable,53842,No,6,33.00,33.00
+6/18/2023,Rose Kanyiri,No-financial constraints,115890,No,5,24.00,24.00
+6/10/2023,Allan Mutuota,No-financial constraints,129706,No,5,48.00,48.00
+6/19/2023,Rose Kanyiri,No-financial constraints,121725,No,6,43.00,43.00
+7/1/2023,Allan Mutuota,Yes- affordable,83586,No,5,47.00,47.00
+8/12/2023,Greyson Ochanda,No- low priority,122743,No,7,41.00,41.00
+7/2/2023,Greyson Ochanda,No- low priority,78991,No,3,30.00,30.00
+8/31/2023,Rose Kanyiri,No- service dissatisfaction,118870,No,4,23.00,23.00
+9/2/2023,Lutta Mboya,Yes- affordable,45061,No,1,49.00,49.00
+9/22/2023,Allan Mutuota,No- low priority,121171,No,2,49.00,49.00
+8/13/2023,Allan Mutuota,No- low priority,105830,No,7,39.00,39.00
+6/1/2023,Rose Kanyiri,No-financial constraints,126920,No,2,37.00,37.00
+9/16/2023,Allan Mutuota,No-financial constraints,123945,No,2,25.00,25.00
+9/27/2023,Rose Kanyiri,Yes- affordable,41181,No,6,27.00,27.00
+9/3/2023,Lutta Mboya,Yes- affordable,110817,No,4,45.00,45.00
+7/21/2023,Allan Mutuota,No-financial constraints,101951,No,1,31.00,31.00
+7/23/2023,Greyson Ochanda,No-financial constraints,106128,No,5,23.00,23.00
+7/15/2023,Rose Kanyiri,Yes- affordable,84529,No,7,31.00,31.00
+6/7/2023,Rose Kanyiri,Yes- affordable,90840,No,4,39.00,39.00
+9/26/2023,Greyson Ochanda,Yes- affordable,52609,No,2,45.00,45.00
+8/20/2023,Rose Kanyiri,Yes- affordable,108498,Yes,7,49.00,43.00
+9/15/2023,Lutta Mboya,Yes- affordable,72448,Yes,4,47.00,51.00
+9/26/2023,Lutta Mboya,Yes- affordable,130362,No,4,35.00,35.00
+9/4/2023,Greyson Ochanda,No-financial constraints,7561,No,5,31.00,31.00
+8/21/2023,Greyson Ochanda,No-financial constraints,121599,No,1,40.00,40.00
+9/16/2023,Lutta Mboya,Yes- affordable,56005,No,6,29.00,29.00
+9/21/2023,Greyson Ochanda,No- low priority,104837,No,4,45.00,45.00
+8/6/2023,Allan Mutuota,Yes- affordable,88181,No,1,40.00,40.00
+6/30/2023,Greyson Ochanda,No- low priority,107862,No,4,31.00,31.00
+9/30/2023,Lutta Mboya,Yes- affordable,83880,No,6,24.00,24.00
+9/18/2023,Rose Kanyiri,No-financial constraints,109240,No,6,24.00,24.00
+6/24/2023,Allan Mutuota,No- low priority,99466,No,2,41.00,41.00
+7/11/2023,Greyson Ochanda,No- low priority,87622,No,1,41.00,41.00
+9/25/2023,Greyson Ochanda,No-financial constraints,96880,No,5,48.00,48.00
+8/20/2023,Rose Kanyiri,Yes- affordable,86905,No,2,49.00,49.00
+9/24/2023,Lutta Mboya,Yes- affordable,64990,Yes,3,39.00,57.00
+8/5/2023,Rose Kanyiri,No- low priority,85796,No,4,48.00,48.00
+6/22/2023,Allan Mutuota,No- low priority,113659,No,7,31.00,31.00
+8/3/2023,Rose Kanyiri,No-financial constraints,133549,No,7,49.00,49.00
+6/27/2023,Greyson Ochanda,Yes- affordable,85925,No,7,26.00,26.00
+6/11/2023,Greyson Ochanda,Yes- affordable,82288,No,4,22.00,22.00
+7/5/2023,Rose Kanyiri,No- low priority,86535,No,7,31.00,31.00
+8/8/2023,Greyson Ochanda,Yes- affordable,96378,No,5,36.00,36.00
+9/5/2023,Rose Kanyiri,No- low priority,102722,No,6,47.00,47.00
+8/2/2023,Allan Mutuota,No- low priority,106265,No,4,38.00,38.00
+9/26/2023,Lutta Mboya,Yes- affordable,20796,No,3,43.00,43.00
+9/28/2023,Greyson Ochanda,Yes- affordable,65840,No,1,26.00,26.00
+9/27/2023,Greyson Ochanda,Yes- affordable,113474,No,6,47.00,47.00
+7/11/2023,Rose Kanyiri,No- low priority,93818,No,5,41.00,41.00
+7/23/2023,Allan Mutuota,Yes- affordable,87439,Yes,7,30.00,44.00
+8/13/2023,Greyson Ochanda,No-financial constraints,118954,No,2,22.00,22.00
+7/23/2023,Rose Kanyiri,No- low priority,77047,No,6,46.00,46.00
+9/9/2023,Lutta Mboya,Yes- affordable,109318,No,6,29.00,29.00
+8/29/2023,Rose Kanyiri,No- low priority,104940,No,3,28.00,28.00
+9/13/2023,Greyson Ochanda,Yes- affordable,126251,No,3,33.00,33.00
+8/14/2023,Allan Mutuota,Not reachable,107716,No,1,36.00,36.00
+8/10/2023,Rose Kanyiri,Yes- affordable,86285,No,1,31.00,31.00
+7/17/2023,Allan Mutuota,No- low priority,119171,No,6,44.00,44.00
+9/2/2023,Lutta Mboya,Yes- affordable,104051,No,7,32.00,32.00
+6/23/2023,Rose Kanyiri,Not reachable,96097,No,7,36.00,36.00
+7/3/2023,Greyson Ochanda,No- low priority,44480,No,5,41.00,41.00
+8/7/2023,Greyson Ochanda,No- low priority,33355,No,6,35.00,35.00
+8/19/2023,Greyson Ochanda,No-financial constraints,103539,No,5,44.00,44.00
+7/9/2023,Greyson Ochanda,No- low priority,18366,No,3,39.00,39.00
+7/15/2023,Rose Kanyiri,No- low priority,99871,No,6,50.00,50.00
+8/19/2023,Greyson Ochanda,Yes- affordable,81106,No,6,40.00,40.00
+9/27/2023,Allan Mutuota,Yes- affordable,111348,No,7,23.00,23.00
+9/24/2023,Lutta Mboya,Yes- affordable,109497,No,7,37.00,37.00
+7/28/2023,Greyson Ochanda,No-financial constraints,119395,No,6,25.00,25.00
+9/8/2023,Lutta Mboya,Yes- affordable,18871,No,5,47.00,47.00
+8/30/2023,Greyson Ochanda,Not reachable,113676,No,7,33.00,33.00
+6/30/2023,Allan Mutuota,No-financial constraints,128430,No,3,24.00,24.00
+9/25/2023,Allan Mutuota,Yes- affordable,125623,Yes,3,23.00,49.00
+6/28/2023,Allan Mutuota,No- low priority,106181,No,7,41.00,41.00
+8/26/2023,Lutta Mboya,Yes- affordable,84868,No,1,23.00,23.00
+9/28/2023,Lutta Mboya,Yes- affordable,67112,No,3,31.00,31.00
+9/7/2023,Rose Kanyiri,No- service dissatisfaction,117272,No,4,41.00,41.00
+9/14/2023,Greyson Ochanda,Yes- affordable,106446,No,5,24.00,24.00
+8/18/2023,Rose Kanyiri,No- low priority,42049,No,2,33.00,33.00
+7/16/2023,Rose Kanyiri,Yes- affordable,109138,No,6,41.00,41.00
+7/13/2023,Rose Kanyiri,No- low priority,123692,No,2,46.00,46.00
+6/24/2023,Greyson Ochanda,Yes- affordable,87848,No,1,46.00,46.00
+8/5/2023,Rose Kanyiri,Not reachable,97847,No,5,44.00,44.00
+8/25/2023,Lutta Mboya,Yes- affordable,133519,No,4,32.00,32.00
+6/6/2023,Rose Kanyiri,No- low priority,91812,No,5,22.00,22.00
+8/7/2023,Rose Kanyiri,No- low priority,59883,No,4,35.00,35.00
+9/17/2023,Allan Mutuota,Yes- affordable,121377,No,7,25.00,25.00
+9/19/2023,Rose Kanyiri,No-financial constraints,26420,No,3,29.00,29.00
+6/28/2023,Rose Kanyiri,No- low priority,91392,No,7,38.00,38.00
+9/5/2023,Allan Mutuota,No- low priority,44484,No,3,37.00,37.00
+8/1/2023,Allan Mutuota,No- low priority,113183,No,5,36.00,36.00
+7/21/2023,Greyson Ochanda,Yes- affordable,76054,No,2,48.00,48.00
+8/1/2023,Allan Mutuota,Yes- affordable,78252,No,5,46.00,46.00
+9/11/2023,Lutta Mboya,Yes- affordable,131174,No,1,41.00,41.00
+9/10/2023,Lutta Mboya,Yes- affordable,94321,No,6,32.00,32.00
+8/20/2023,Greyson Ochanda,No- low priority,93330,No,3,27.00,27.00
+9/8/2023,Allan Mutuota,Yes- affordable,121039,No,7,47.00,47.00
+9/18/2023,Greyson Ochanda,No- low priority,95649,No,6,37.00,37.00
+6/2/2023,Rose Kanyiri,No- low priority,62321,No,7,27.00,27.00
+8/26/2023,Lutta Mboya,Yes- affordable,38691,No,5,45.00,45.00
+8/22/2023,Rose Kanyiri,No- low priority,21306,No,7,29.00,29.00
+7/29/2023,Allan Mutuota,No- low priority,74885,No,2,37.00,37.00
+9/16/2023,Greyson Ochanda,No- low priority,101642,No,5,48.00,48.00
+8/14/2023,Allan Mutuota,No- low priority,82194,No,6,39.00,39.00
+9/28/2023,Lutta Mboya,Yes- affordable,129837,No,2,37.00,37.00
+9/9/2023,Lutta Mboya,Yes- affordable,98274,No,2,28.00,28.00
+6/29/2023,Allan Mutuota,Not reachable,101092,No,4,43.00,43.00
+7/28/2023,Allan Mutuota,Yes- affordable,87274,Yes,6,39.00,45.00
+6/20/2023,Greyson Ochanda,No-financial constraints,100343,No,4,26.00,26.00
+7/30/2023,Greyson Ochanda,Not reachable,106606,No,2,34.00,34.00
+8/24/2023,Lutta Mboya,Yes- affordable,30054,No,6,48.00,48.00
+9/14/2023,Greyson Ochanda,No- service dissatisfaction,35143,No,6,27.00,27.00
+9/20/2023,Lutta Mboya,Yes- affordable,76307,Yes,5,47.00,47.00
+9/20/2023,Rose Kanyiri,No- low priority,48641,No,2,46.00,46.00
+9/7/2023,Lutta Mboya,Yes- affordable,101593,Yes,1,31.00,42.00
+7/10/2023,Greyson Ochanda,Yes- affordable,84593,No,2,45.00,45.00
+8/24/2023,Lutta Mboya,Yes- affordable,88359,No,7,39.00,39.00
+9/27/2023,Allan Mutuota,No- low priority,69937,No,1,35.00,35.00
+6/15/2023,Allan Mutuota,No- low priority,38622,No,1,50.00,50.00
+7/27/2023,Rose Kanyiri,No- low priority,80847,No,4,33.00,33.00
+9/25/2023,Allan Mutuota,Yes- affordable,129755,No,4,30.00,30.00
+8/12/2023,Greyson Ochanda,No- low priority,67576,No,4,44.00,44.00
+9/29/2023,Greyson Ochanda,Yes- affordable,107973,Yes,7,38.00,57.00
+9/3/2023,Rose Kanyiri,No- low priority,134765,No,7,26.00,26.00
+9/19/2023,Lutta Mboya,Yes- affordable,51447,No,6,32.00,32.00
+9/23/2023,Lutta Mboya,Yes- affordable,107883,No,4,34.00,34.00
+9/30/2023,Lutta Mboya,Yes- affordable,38453,No,5,25.00,25.00
+9/13/2023,Rose Kanyiri,No- service dissatisfaction,127563,No,7,28.00,28.00
+6/1/2023,Allan Mutuota,No- low priority,77790,No,4,39.00,39.00
+9/17/2023,Allan Mutuota,Yes- affordable,89379,No,3,36.00,36.00
+6/10/2023,Rose Kanyiri,Not reachable,36134,No,7,23.00,23.00
+6/6/2023,Allan Mutuota,Yes- affordable,87028,No,2,50.00,50.00
+6/10/2023,Greyson Ochanda,No- low priority,30512,No,1,46.00,46.00
+9/18/2023,Allan Mutuota,No- low priority,32163,No,4,50.00,50.00
+8/5/2023,Rose Kanyiri,Yes- affordable,52331,No,4,25.00,25.00
+9/28/2023,Lutta Mboya,Yes- affordable,40690,No,6,44.00,44.00
+8/24/2023,Allan Mutuota,Yes- affordable,105790,No,1,31.00,31.00
+6/6/2023,Rose Kanyiri,Yes- affordable,109023,No,1,27.00,27.00
+8/23/2023,Rose Kanyiri,Yes- affordable,108526,No,7,40.00,40.00
+8/21/2023,Greyson Ochanda,No- low priority,64059,No,5,28.00,28.00
+9/12/2023,Lutta Mboya,Yes- affordable,56309,No,1,38.00,38.00
+7/29/2023,Allan Mutuota,No- low priority,68649,No,7,34.00,34.00
+6/14/2023,Allan Mutuota,No- low priority,31064,No,4,22.00,22.00
+9/16/2023,Lutta Mboya,Yes- affordable,29380,No,1,43.00,43.00
+8/27/2023,Rose Kanyiri,No- low priority,117584,No,4,40.00,40.00
+8/26/2023,Lutta Mboya,Yes- affordable,69212,No,5,42.00,42.00
+6/30/2023,Greyson Ochanda,Yes- affordable,75116,No,2,45.00,45.00
+7/11/2023,Rose Kanyiri,Yes- affordable,75988,Yes,2,42.00,49.00
+8/28/2023,Rose Kanyiri,No- service dissatisfaction,70775,No,2,50.00,50.00
+7/27/2023,Rose Kanyiri,No-financial constraints,111657,No,7,33.00,33.00
+7/25/2023,Allan Mutuota,Not reachable,52191,No,4,23.00,23.00
+9/29/2023,Lutta Mboya,No-financial constraints,101403,No,2,36.00,36.00
+6/16/2023,Rose Kanyiri,No-financial constraints,111979,No,2,46.00,46.00
+9/27/2023,Allan Mutuota,No- service dissatisfaction,100691,No,6,41.00,41.00
+8/8/2023,Rose Kanyiri,No- low priority,114034,No,3,41.00,41.00
+8/31/2023,Allan Mutuota,No-financial constraints,30225,No,4,42.00,42.00
+9/14/2023,Allan Mutuota,No- service dissatisfaction,64826,No,2,23.00,23.00
+7/1/2023,Allan Mutuota,Yes- affordable,83586,Yes,3,45.00,41.00
+7/18/2023,Rose Kanyiri,Yes- affordable,88535,No,3,31.00,31.00
+8/5/2023,Allan Mutuota,No-financial constraints,98528,No,3,45.00,45.00
+8/19/2023,Rose Kanyiri,Yes- affordable,97717,No,7,26.00,26.00
+6/17/2023,Allan Mutuota,Yes- affordable,79225,No,7,28.00,28.00
+6/23/2023,Rose Kanyiri,No- low priority,3167,No,3,42.00,42.00
+8/5/2023,Greyson Ochanda,No- low priority,82289,No,3,26.00,26.00
+9/13/2023,Lutta Mboya,Yes- affordable,105892,No,1,37.00,37.00
+8/6/2023,Allan Mutuota,No- low priority,107139,No,2,36.00,36.00
+8/25/2023,Allan Mutuota,No-financial constraints,29330,No,6,24.00,24.00
+8/17/2023,Rose Kanyiri,No- low priority,91757,No,7,45.00,45.00
+9/25/2023,Lutta Mboya,Yes- affordable,55742,Yes,2,24.00,43.00
+9/13/2023,Greyson Ochanda,Yes- affordable,126251,Yes,4,29.00,51.00
+8/15/2023,Rose Kanyiri,No-financial constraints,105990,No,5,44.00,44.00
+8/27/2023,Lutta Mboya,No- low priority,37103,No,3,48.00,48.00
+8/29/2023,Greyson Ochanda,Yes- affordable,59310,No,6,47.00,47.00
+7/25/2023,Allan Mutuota,Not reachable,128310,No,2,29.00,29.00
+7/18/2023,Allan Mutuota,No- low priority,90607,No,5,28.00,28.00
+9/4/2023,Rose Kanyiri,No- low priority,111139,No,1,41.00,41.00
+9/15/2023,Allan Mutuota,No-financial constraints,128561,No,5,43.00,43.00
+8/11/2023,Rose Kanyiri,No- low priority,84784,No,1,38.00,38.00
+7/4/2023,Rose Kanyiri,Yes- affordable,84572,No,6,47.00,47.00
+7/11/2023,Allan Mutuota,No-financial constraints,110155,No,2,34.00,34.00
+9/14/2023,Allan Mutuota,Yes- affordable,123437,No,3,47.00,47.00
+9/28/2023,Lutta Mboya,Yes- affordable,97201,No,7,25.00,25.00
+7/14/2023,Rose Kanyiri,No- low priority,115336,No,6,22.00,22.00
+9/6/2023,Greyson Ochanda,Yes- affordable,127481,No,7,23.00,23.00
+6/15/2023,Allan Mutuota,Yes- affordable,80285,No,2,32.00,32.00
+8/8/2023,Allan Mutuota,No-financial constraints,93013,No,4,42.00,42.00
+8/26/2023,Lutta Mboya,Yes- affordable,96479,Yes,1,36.00,47.00
+9/1/2023,Allan Mutuota,No-financial constraints,97548,No,1,28.00,28.00
+7/21/2023,Greyson Ochanda,Not reachable,108555,No,3,37.00,37.00
+8/14/2023,Rose Kanyiri,No- low priority,111343,No,1,29.00,29.00
+9/10/2023,Lutta Mboya,Yes- affordable,23988,No,7,31.00,31.00
+8/29/2023,Greyson Ochanda,Yes- affordable,122569,No,7,49.00,49.00
+9/9/2023,Lutta Mboya,Yes- affordable,44844,No,2,44.00,44.00
+9/10/2023,Lutta Mboya,Yes- affordable,133045,No,6,33.00,33.00
+7/22/2023,Rose Kanyiri,No- low priority,82089,No,3,24.00,24.00
+8/28/2023,Allan Mutuota,No- low priority,106724,No,5,26.00,26.00
+7/13/2023,Greyson Ochanda,No- low priority,59193,No,6,24.00,24.00
+9/15/2023,Lutta Mboya,Yes- affordable,96830,No,5,44.00,44.00
+8/11/2023,Allan Mutuota,No- low priority,31719,No,1,47.00,47.00
+7/10/2023,Rose Kanyiri,No- low priority,120221,No,3,38.00,38.00
+9/1/2023,Rose Kanyiri,No- low priority,64460,No,6,45.00,45.00
+6/9/2023,Allan Mutuota,No-financial constraints,111083,No,2,40.00,40.00
+9/12/2023,Rose Kanyiri,No-financial constraints,43543,No,5,37.00,37.00
+7/9/2023,Allan Mutuota,Yes- affordable,83858,No,3,25.00,25.00
+8/17/2023,Greyson Ochanda,Yes- affordable,76502,Yes,7,28.00,54.00
+7/23/2023,Allan Mutuota,No-financial constraints,59454,No,1,31.00,31.00
+8/18/2023,Allan Mutuota,No- low priority,124022,No,7,46.00,46.00
+6/29/2023,Greyson Ochanda,No-financial constraints,119983,No,7,45.00,45.00
+7/4/2023,Rose Kanyiri,Yes- affordable,84668,No,2,47.00,47.00
+8/7/2023,Allan Mutuota,Not reachable,42652,No,3,28.00,28.00
+9/7/2023,Lutta Mboya,Yes- affordable,112891,No,3,26.00,26.00
+9/15/2023,Lutta Mboya,Yes- affordable,72448,No,7,23.00,23.00
+6/12/2023,Greyson Ochanda,No- low priority,1584,No,2,44.00,44.00
+9/27/2023,Lutta Mboya,Yes- affordable,60731,Yes,6,33.00,42.00
+6/29/2023,Greyson Ochanda,No- low priority,125280,No,6,32.00,32.00
+8/28/2023,Lutta Mboya,Yes- affordable,91961,No,3,26.00,26.00
+8/27/2023,Lutta Mboya,Yes- affordable,132873,No,5,39.00,39.00
+9/7/2023,Greyson Ochanda,Yes- affordable,69187,No,3,36.00,36.00
+7/26/2023,Rose Kanyiri,No- low priority,86316,No,1,49.00,49.00
+8/11/2023,Greyson Ochanda,No- low priority,53248,No,7,38.00,38.00
+7/17/2023,Allan Mutuota,No-financial constraints,93777,No,2,27.00,27.00
+6/1/2023,Greyson Ochanda,No- low priority,88439,No,3,43.00,43.00
+9/3/2023,Greyson Ochanda,Yes- affordable,111186,No,5,23.00,23.00
+6/29/2023,Greyson Ochanda,No- low priority,58713,No,4,25.00,25.00
+9/4/2023,Allan Mutuota,Yes- affordable,56693,No,1,43.00,43.00
+9/19/2023,Lutta Mboya,Yes- affordable,100663,No,7,26.00,26.00
+9/24/2023,Allan Mutuota,Yes- affordable,24628,No,2,45.00,45.00
+9/12/2023,Greyson Ochanda,Yes- affordable,93178,No,1,48.00,48.00
+7/17/2023,Greyson Ochanda,Yes- affordable,87719,No,5,24.00,24.00
+7/29/2023,Rose Kanyiri,No- low priority,32575,No,2,43.00,43.00
+7/2/2023,Rose Kanyiri,No- low priority,103630,No,2,38.00,38.00
+9/1/2023,Lutta Mboya,Yes- affordable,126552,No,5,43.00,43.00
+9/15/2023,Greyson Ochanda,No- low priority,31085,No,5,44.00,44.00
+6/9/2023,Greyson Ochanda,Yes- affordable,81331,No,6,25.00,25.00
+7/15/2023,Allan Mutuota,No-financial constraints,19680,No,4,45.00,45.00
+9/29/2023,Lutta Mboya,Yes- affordable,25805,No,1,36.00,36.00
+7/16/2023,Rose Kanyiri,No- low priority,85894,No,1,30.00,30.00
+8/10/2023,Allan Mutuota,No- low priority,112436,No,7,38.00,38.00
+9/7/2023,Greyson Ochanda,Yes- affordable,71971,No,1,44.00,44.00
+6/11/2023,Rose Kanyiri,No-financial constraints,131664,No,6,44.00,44.00
+9/25/2023,Rose Kanyiri,No- low priority,93862,No,5,36.00,36.00
+9/18/2023,Rose Kanyiri,No-financial constraints,65432,No,3,26.00,26.00
+7/10/2023,Greyson Ochanda,No- low priority,63533,No,5,34.00,34.00
+9/10/2023,Lutta Mboya,Yes- affordable,104279,No,7,36.00,36.00
+9/25/2023,Rose Kanyiri,Yes- affordable,19757,No,1,48.00,48.00
+8/26/2023,Lutta Mboya,Yes- affordable,114087,Yes,1,48.00,55.00
+8/30/2023,Rose Kanyiri,No-financial constraints,24613,No,7,39.00,39.00
+7/24/2023,Greyson Ochanda,Yes- affordable,89178,No,3,25.00,25.00
+6/18/2023,Allan Mutuota,Yes- affordable,85182,Yes,6,36.00,56.00
+8/20/2023,Greyson Ochanda,No- low priority,120243,No,3,29.00,29.00
+7/23/2023,Greyson Ochanda,No- low priority,105041,No,7,42.00,42.00
+6/9/2023,Allan Mutuota,No- low priority,70316,No,5,48.00,48.00
+7/12/2023,Rose Kanyiri,No- low priority,87124,No,3,31.00,31.00
+7/17/2023,Rose Kanyiri,Not reachable,104332,No,1,25.00,25.00
+7/9/2023,Rose Kanyiri,Yes- affordable,86895,No,6,45.00,45.00
+9/20/2023,Allan Mutuota,No- low priority,41573,No,5,28.00,28.00
+9/28/2023,Lutta Mboya,Yes- affordable,54346,No,6,35.00,35.00
+9/2/2023,Greyson Ochanda,Yes- affordable,128791,No,3,22.00,22.00
+9/27/2023,Allan Mutuota,Yes- affordable,111348,Yes,2,33.00,41.00
+6/3/2023,Allan Mutuota,No- low priority,116714,No,7,45.00,45.00
+7/3/2023,Allan Mutuota,Yes- affordable,89387,No,5,27.00,27.00
+9/18/2023,Greyson Ochanda,Yes- affordable,93720,No,7,43.00,43.00
+7/18/2023,Rose Kanyiri,No- low priority,131964,No,5,49.00,49.00
+9/6/2023,Allan Mutuota,Yes- affordable,41897,Yes,7,28.00,57.00
+9/2/2023,Greyson Ochanda,Yes- affordable,39370,No,3,31.00,31.00
+7/27/2023,Greyson Ochanda,Yes- affordable,74013,Yes,4,33.00,56.00
+9/13/2023,Allan Mutuota,No- low priority,63548,No,7,27.00,27.00
+9/2/2023,Allan Mutuota,Yes- affordable,37645,No,6,49.00,49.00
+7/21/2023,Rose Kanyiri,No- low priority,92553,No,4,29.00,29.00
+8/26/2023,Lutta Mboya,Yes- affordable,114087,No,2,26.00,26.00
+8/11/2023,Greyson Ochanda,No-financial constraints,33332,No,6,37.00,37.00
+9/28/2023,Greyson Ochanda,Yes- affordable,65840,Yes,7,28.00,57.00
+6/8/2023,Allan Mutuota,No- low priority,108130,No,6,48.00,48.00
+9/8/2023,Allan Mutuota,Not reachable,58516,No,1,29.00,29.00
+8/26/2023,Rose Kanyiri,Yes- affordable,44969,Yes,3,36.00,53.00
+6/11/2023,Allan Mutuota,Yes- affordable,81930,No,6,26.00,26.00
+6/14/2023,Allan Mutuota,No-financial constraints,40688,No,6,38.00,38.00
+8/20/2023,Rose Kanyiri,No- low priority,109493,No,7,37.00,37.00
