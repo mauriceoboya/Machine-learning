@@ -25,7 +25,7 @@ df['Revenue per day with delay'] = df['revenue per day before weekly'] / (30 + d
 # Streamlit app
 st.title('Poa! Internet Subscription Pilot Analysis')
 st.subheader('Poa Pilot project Data')
-st.dataframe(df)
+st.dataframe(df.head())
 
 #  Analyze customer conversion, reachability, and agent performance
 st.header('Customer Conversion, Reachability, and Agent Performance')
