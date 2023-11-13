@@ -4,7 +4,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import plotly.express as px
 
-data = pd.read_csv('./Analytics_data.csv')
+data = github_raw_url = 'https://raw.githubusercontent.com/mauriceoboya/Machine-learning/main/unsupervised_models/Analytics_data.csv'
+data = pd.read_csv(data)
 
 columns = ["Date", "Agent name", "Response", "uid", "Converted?", 
            "average payment delay before weekly", "revenue per day before weekly", "revenue per day after weekly"]
