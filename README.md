@@ -37,8 +37,6 @@ The dataset used in this project is named 'cc_approvals.csv' and contains the fo
 - YearsEmployed
 - PriorDefault
 - Employed
-- CreditScore
-- DriversLicense
 - Citizen
 - ZipCode
 - Income
