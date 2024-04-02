@@ -1,8 +1,11 @@
-stage:
+stages:
   data_ingestion:
     cmd: python data_ingestion.py
     deps:
       - data_ingestion.py
-    outs:
-    - data_ingestion.out
-    - data_ingestion.err
+  
+  model_training:
+   cmd: python model.py
+   deps:
+    - data_ingestion.py
+    - model.py
