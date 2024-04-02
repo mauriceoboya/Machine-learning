@@ -1,0 +1,5 @@
+ERROR:File not found: [Errno 2] No such file or directory: 'Raisin_Datasets.csv'
+ERROR:An error occurred: module 'logging' has no attribute 'Info'
+ERROR:An error occurred: module 'logging' has no attribute 'Info'
+ERROR:An error occurred: module 'logging' has no attribute 'Info'
+INFO:data ingestion intiated
