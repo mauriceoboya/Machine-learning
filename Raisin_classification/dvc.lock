@@ -1,0 +1,20 @@
+schema: '2.0'
+stages:
+  data_ingestion:
+    cmd: python data_ingestion.py
+    deps:
+    - path: data_ingestion.py
+      hash: md5
+      md5: 346c4e6282613485618a38ecbc322562
+      size: 829
+  model_training:
+    cmd: python model.py
+    deps:
+    - path: data_ingestion.py
+      hash: md5
+      md5: 346c4e6282613485618a38ecbc322562
+      size: 829
+    - path: model.py
+      hash: md5
+      md5: 85135ee196f7c6ed180b00d9ebf4dcda
+      size: 1381
